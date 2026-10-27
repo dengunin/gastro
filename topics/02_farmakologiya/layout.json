@@ -1,0 +1,12 @@
+{
+  "reference": true,
+  "parts": [
+    {"id": "p-basics", "title": "Основы фармакологии", "sections": [1, 2, 3, 4, 5]},
+    {"id": "p-safety", "title": "Клиника и красные флаги", "sections": [6, 7]},
+    {"id": "p-diagnostics", "title": "Диагностика и контроль", "sections": [8, 9, 10, 11]},
+    {"id": "p-treatment", "title": "Лечение: основные группы препаратов", "sections": [12]},
+    {"id": "p-special", "title": "Особые группы, осложнения и направление", "sections": [13, 14, 15]},
+    {"id": "p-followup", "title": "Наблюдение и качество помощи", "sections": [16, 17, 18]},
+    {"id": "p-practice", "title": "Практика, ошибки и источники", "sections": [19, 20, 21, 22]}
+  ]
+}

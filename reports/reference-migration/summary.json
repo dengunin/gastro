@@ -1,0 +1,13 @@
+{
+  "topics_migrated": 41,
+  "sequential_agents": 41,
+  "all_topic_checks_passed": true,
+  "markdown_files_unchanged": 259,
+  "scored_questions": 2660,
+  "questions_without_keys": 80,
+  "clinical_cases": 115,
+  "topics_with_missing_keys": [
+    25
+  ],
+  "source_text_comparisons": 164
+}

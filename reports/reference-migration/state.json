@@ -1,0 +1,253 @@
+{
+  "mode": "one_separate_agent_per_topic_sequential",
+  "total": 41,
+  "passed": 41,
+  "topics": [
+    {
+      "number": 3,
+      "slug": "03_organizatsiya_pomoshchi",
+      "agent": "topic_03",
+      "status": "passed"
+    },
+    {
+      "number": 4,
+      "slug": "04_gerb_barrett",
+      "agent": "topic_04",
+      "status": "passed"
+    },
+    {
+      "number": 5,
+      "slug": "05_eozinofilnyy_ezofagit",
+      "agent": "topic_05",
+      "status": "passed"
+    },
+    {
+      "number": 6,
+      "slug": "06_akhalaziya_motorika",
+      "agent": "topic_06",
+      "status": "passed"
+    },
+    {
+      "number": 7,
+      "slug": "07_disfagiya_ezofagity",
+      "agent": "topic_07",
+      "status": "passed"
+    },
+    {
+      "number": 8,
+      "slug": "08_helicobacter_pylori",
+      "agent": "topic_08",
+      "status": "passed"
+    },
+    {
+      "number": 9,
+      "slug": "09_gastrit_atrofiya",
+      "agent": "topic_09",
+      "status": "passed"
+    },
+    {
+      "number": 10,
+      "slug": "10_yazvennaya_bolezn_nsaid",
+      "agent": "topic_10",
+      "status": "passed"
+    },
+    {
+      "number": 11,
+      "slug": "11_funkcionalnaya_dispepsiya",
+      "agent": "topic_11",
+      "status": "passed"
+    },
+    {
+      "number": 12,
+      "slug": "12_zhkk",
+      "agent": "topic_12",
+      "status": "passed"
+    },
+    {
+      "number": 13,
+      "slug": "13_predrak_rak_verkhnih_otdelov",
+      "agent": "topic_13",
+      "status": "passed"
+    },
+    {
+      "number": 14,
+      "slug": "14_celiakiya",
+      "agent": "topic_14",
+      "status": "passed"
+    },
+    {
+      "number": 15,
+      "slug": "15_sibr_malabsorbciya",
+      "agent": "topic_15",
+      "status": "passed"
+    },
+    {
+      "number": 16,
+      "slug": "16_khronicheskaya_diareya",
+      "agent": "topic_16",
+      "status": "passed"
+    },
+    {
+      "number": 17,
+      "slug": "17_srk",
+      "agent": "topic_17",
+      "status": "passed"
+    },
+    {
+      "number": 18,
+      "slug": "18_zapor",
+      "agent": "topic_18",
+      "status": "passed"
+    },
+    {
+      "number": 19,
+      "slug": "19_yazvennyy_kolit",
+      "agent": "topic_19",
+      "status": "passed"
+    },
+    {
+      "number": 20,
+      "slug": "20_infekcionnaya_diareya_cdiff",
+      "agent": "topic_20",
+      "status": "passed"
+    },
+    {
+      "number": 21,
+      "slug": "21_bolezn_krona",
+      "agent": "topic_21",
+      "status": "passed"
+    },
+    {
+      "number": 22,
+      "slug": "22_divertikulyarnaya_bolezn",
+      "agent": "topic_22",
+      "status": "passed"
+    },
+    {
+      "number": 23,
+      "slug": "23_ishemicheskiy_kolit_anorektalnye",
+      "agent": "topic_23",
+      "status": "passed"
+    },
+    {
+      "number": 24,
+      "slug": "24_polipy_skrining_krr",
+      "agent": "topic_24",
+      "status": "passed"
+    },
+    {
+      "number": 25,
+      "slug": "25_pechenochnye_proby_zheltukha",
+      "agent": "topic_25",
+      "status": "passed"
+    },
+    {
+      "number": 26,
+      "slug": "26_lekarstvennoe_porazhenie_pecheni",
+      "agent": "topic_26",
+      "status": "passed"
+    },
+    {
+      "number": 27,
+      "slug": "27_mazhbp",
+      "agent": "topic_27",
+      "status": "passed"
+    },
+    {
+      "number": 28,
+      "slug": "28_alkogolnaya_bolezn_pecheni",
+      "agent": "topic_28",
+      "status": "passed"
+    },
+    {
+      "number": 29,
+      "slug": "29_autoimmunnyy_gepatit",
+      "agent": "topic_29",
+      "status": "passed"
+    },
+    {
+      "number": 30,
+      "slug": "30_virusnye_gepatity",
+      "agent": "topic_30",
+      "status": "passed"
+    },
+    {
+      "number": 31,
+      "slug": "31_pbkh_psh_igg4",
+      "agent": "topic_31",
+      "status": "passed"
+    },
+    {
+      "number": 32,
+      "slug": "32_gemokhromatoz_vilson_a1at",
+      "agent": "topic_32",
+      "status": "passed"
+    },
+    {
+      "number": 33,
+      "slug": "33_cirroz_oslozhneniya",
+      "agent": "topic_33",
+      "status": "passed"
+    },
+    {
+      "number": 34,
+      "slug": "34_ochagovye_obrazovaniya_gck",
+      "agent": "topic_34",
+      "status": "passed"
+    },
+    {
+      "number": 35,
+      "slug": "35_pechen_beremennost",
+      "agent": "topic_35",
+      "status": "passed"
+    },
+    {
+      "number": 36,
+      "slug": "36_zhkb_polipy_zhp",
+      "agent": "topic_36",
+      "status": "passed"
+    },
+    {
+      "number": 37,
+      "slug": "37_funkcionalnye_biliarnye_phes",
+      "agent": "topic_37",
+      "status": "passed"
+    },
+    {
+      "number": 38,
+      "slug": "38_ostryy_pankreatit",
+      "agent": "topic_38",
+      "status": "passed"
+    },
+    {
+      "number": 39,
+      "slug": "39_khronicheskiy_pankreatit_vnpzh",
+      "agent": "topic_39",
+      "status": "passed"
+    },
+    {
+      "number": 40,
+      "slug": "40_kisty_rak_pzh",
+      "agent": "topic_40",
+      "status": "passed"
+    },
+    {
+      "number": 41,
+      "slug": "41_nutriciologiya",
+      "agent": "topic_41",
+      "status": "passed"
+    },
+    {
+      "number": 42,
+      "slug": "42_osobye_gruppy",
+      "agent": "topic_42",
+      "status": "passed"
+    },
+    {
+      "number": 43,
+      "slug": "43_ot_zhaloby_k_diagnozu",
+      "agent": "topic_43",
+      "status": "passed"
+    }
+  ]
+}

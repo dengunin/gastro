@@ -1,0 +1,2901 @@
+{
+  "topics": [
+    {
+      "number": 1,
+      "title": "Методы диагностики в гастроэнтерологии",
+      "discipline": "Гастроэнтерология",
+      "slug": "01_metody_diagnostiki",
+      "sources": 12,
+      "images": 10,
+      "agent": "topic_01"
+    },
+    {
+      "number": 2,
+      "title": "Фармакология основных групп",
+      "discipline": "Гастроэнтерология",
+      "slug": "02_farmakologiya",
+      "sources": 6,
+      "images": 6,
+      "agent": "topic_02"
+    },
+    {
+      "number": 3,
+      "title": "Организация помощи по профилю «гастроэнтерология»",
+      "discipline": "Гастроэнтерология",
+      "slug": "03_organizatsiya_pomoshchi",
+      "sources": 6,
+      "images": 6,
+      "agent": "topic_03"
+    },
+    {
+      "number": 4,
+      "title": "ГЭРБ и пищевод Барретта",
+      "discipline": "Гастроэнтерология",
+      "slug": "04_gerb_barrett",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_04"
+    },
+    {
+      "number": 5,
+      "title": "Эозинофильный эзофагит",
+      "discipline": "Гастроэнтерология",
+      "slug": "05_eozinofilnyy_ezofagit",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_05"
+    },
+    {
+      "number": 6,
+      "title": "Ахалазия и нарушения моторики пищевода",
+      "discipline": "Гастроэнтерология",
+      "slug": "06_akhalaziya_motorika",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_06"
+    },
+    {
+      "number": 7,
+      "title": "Дисфагия; инфекционные и лекарственные эзофагиты",
+      "discipline": "Гастроэнтерология",
+      "slug": "07_disfagiya_ezofagity",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_07"
+    },
+    {
+      "number": 8,
+      "title": "Инфекция H. pylori",
+      "discipline": "Гастроэнтерология",
+      "slug": "08_helicobacter_pylori",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_08"
+    },
+    {
+      "number": 9,
+      "title": "Хронический гастрит, атрофия, кишечная метаплазия, аутоиммунный гастрит",
+      "discipline": "Гастроэнтерология",
+      "slug": "09_gastrit_atrofiya",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_09"
+    },
+    {
+      "number": 10,
+      "title": "Язвенная болезнь и НПВП-гастропатия",
+      "discipline": "Гастроэнтерология",
+      "slug": "10_yazvennaya_bolezn_nsaid",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_10"
+    },
+    {
+      "number": 11,
+      "title": "Функциональная диспепсия и гастропарез",
+      "discipline": "Гастроэнтерология",
+      "slug": "11_funkcionalnaya_dispepsiya",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_11"
+    },
+    {
+      "number": 12,
+      "title": "Желудочно-кишечное кровотечение: распознать и направить",
+      "discipline": "Гастроэнтерология",
+      "slug": "12_zhkk",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_12"
+    },
+    {
+      "number": 13,
+      "title": "Предраковые состояния и рак пищевода и желудка",
+      "discipline": "Гастроэнтерология",
+      "slug": "13_predrak_rak_verkhnih_otdelov",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_13"
+    },
+    {
+      "number": 14,
+      "title": "Целиакия и глютен-ассоциированные состояния",
+      "discipline": "Гастроэнтерология",
+      "slug": "14_celiakiya",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_14"
+    },
+    {
+      "number": 15,
+      "title": "СИБР, мальабсорбция, лактазная недостаточность",
+      "discipline": "Гастроэнтерология",
+      "slug": "15_sibr_malabsorbciya",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_15"
+    },
+    {
+      "number": 16,
+      "title": "Хроническая диарея, микроскопический колит, желчнокислотная диарея",
+      "discipline": "Гастроэнтерология",
+      "slug": "16_khronicheskaya_diareya",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_16"
+    },
+    {
+      "number": 17,
+      "title": "Синдром раздражённого кишечника",
+      "discipline": "Гастроэнтерология",
+      "slug": "17_srk",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_17"
+    },
+    {
+      "number": 18,
+      "title": "Хронический запор, диссинергия",
+      "discipline": "Гастроэнтерология",
+      "slug": "18_zapor",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_18"
+    },
+    {
+      "number": 19,
+      "title": "Язвенный колит",
+      "discipline": "Гастроэнтерология",
+      "slug": "19_yazvennyy_kolit",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_19"
+    },
+    {
+      "number": 20,
+      "title": "Инфекционная диарея, C. difficile, антибиотик-ассоциированная диарея",
+      "discipline": "Гастроэнтерология",
+      "slug": "20_infekcionnaya_diareya_cdiff",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_20"
+    },
+    {
+      "number": 21,
+      "title": "Болезнь Крона",
+      "discipline": "Гастроэнтерология",
+      "slug": "21_bolezn_krona",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_21"
+    },
+    {
+      "number": 22,
+      "title": "Дивертикулярная болезнь",
+      "discipline": "Гастроэнтерология",
+      "slug": "22_divertikulyarnaya_bolezn",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_22"
+    },
+    {
+      "number": 23,
+      "title": "Ишемический колит, аноректальные болезни",
+      "discipline": "Гастроэнтерология",
+      "slug": "23_ishemicheskiy_kolit_anorektalnye",
+      "sources": 6,
+      "images": 4,
+      "agent": "topic_23"
+    },
+    {
+      "number": 24,
+      "title": "Колоректальные полипы и скрининг колоректального рака",
+      "discipline": "Гастроэнтерология",
+      "slug": "24_polipy_skrining_krr",
+      "sources": 6,
+      "images": 4,
+      "agent": "topic_24"
+    },
+    {
+      "number": 25,
+      "title": "Изменённые печёночные пробы, желтуха, синдром Жильбера",
+      "discipline": "Гастроэнтерология",
+      "slug": "25_pechenochnye_proby_zheltukha",
+      "sources": 6,
+      "images": 4,
+      "agent": "topic_25"
+    },
+    {
+      "number": 26,
+      "title": "Лекарственное поражение печени",
+      "discipline": "Гастроэнтерология",
+      "slug": "26_lekarstvennoe_porazhenie_pecheni",
+      "sources": 6,
+      "images": 6,
+      "agent": "topic_26"
+    },
+    {
+      "number": 27,
+      "title": "МАЖБП",
+      "discipline": "Гастроэнтерология",
+      "slug": "27_mazhbp",
+      "sources": 6,
+      "images": 6,
+      "agent": "topic_27"
+    },
+    {
+      "number": 28,
+      "title": "Алкогольная болезнь печени",
+      "discipline": "Гастроэнтерология",
+      "slug": "28_alkogolnaya_bolezn_pecheni",
+      "sources": 6,
+      "images": 6,
+      "agent": "topic_28"
+    },
+    {
+      "number": 29,
+      "title": "Аутоиммунный гепатит",
+      "discipline": "Гастроэнтерология",
+      "slug": "29_autoimmunnyy_gepatit",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_29"
+    },
+    {
+      "number": 30,
+      "title": "Хронические вирусные гепатиты B, C, D",
+      "discipline": "Гастроэнтерология",
+      "slug": "30_virusnye_gepatity",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_30"
+    },
+    {
+      "number": 31,
+      "title": "ПБХ, ПСХ, IgG4-ассоциированная болезнь",
+      "discipline": "Гастроэнтерология",
+      "slug": "31_pbkh_psh_igg4",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_31"
+    },
+    {
+      "number": 32,
+      "title": "Гемохроматоз, болезнь Вильсона, дефицит А1АТ",
+      "discipline": "Гастроэнтерология",
+      "slug": "32_gemokhromatoz_vilson_a1at",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_32"
+    },
+    {
+      "number": 33,
+      "title": "Цирроз печени и его осложнения",
+      "discipline": "Гастроэнтерология",
+      "slug": "33_cirroz_oslozhneniya",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_33"
+    },
+    {
+      "number": 34,
+      "title": "Очаговые образования печени, скрининг ГЦК",
+      "discipline": "Гастроэнтерология",
+      "slug": "34_ochagovye_obrazovaniya_gck",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_34"
+    },
+    {
+      "number": 35,
+      "title": "Болезни печени при беременности",
+      "discipline": "Гастроэнтерология",
+      "slug": "35_pechen_beremennost",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_35"
+    },
+    {
+      "number": 36,
+      "title": "ЖКБ, сладж, полипы желчного пузыря",
+      "discipline": "Гастроэнтерология",
+      "slug": "36_zhkb_polipy_zhp",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_36"
+    },
+    {
+      "number": 37,
+      "title": "Функциональные расстройства желчного пузыря и сфинктера Одди, постхолецистэктомический синдром",
+      "discipline": "Гастроэнтерология",
+      "slug": "37_funkcionalnye_biliarnye_phes",
+      "sources": 6,
+      "images": 6,
+      "agent": "topic_37"
+    },
+    {
+      "number": 38,
+      "title": "Острый панкреатит: амбулаторный этап",
+      "discipline": "Гастроэнтерология",
+      "slug": "38_ostryy_pankreatit",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_38"
+    },
+    {
+      "number": 39,
+      "title": "Хронический панкреатит и внешнесекреторная недостаточность",
+      "discipline": "Гастроэнтерология",
+      "slug": "39_khronicheskiy_pankreatit_vnpzh",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_39"
+    },
+    {
+      "number": 40,
+      "title": "Кистозные образования и рак поджелудочной железы",
+      "discipline": "Гастроэнтерология",
+      "slug": "40_kisty_rak_pzh",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_40"
+    },
+    {
+      "number": 41,
+      "title": "Нутрициология в гастроэнтерологии",
+      "discipline": "Гастроэнтерология",
+      "slug": "41_nutriciologiya",
+      "sources": 6,
+      "images": 8,
+      "agent": "topic_41"
+    },
+    {
+      "number": 42,
+      "title": "Особые группы",
+      "discipline": "Гастроэнтерология",
+      "slug": "42_osobye_gruppy",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_42"
+    },
+    {
+      "number": 43,
+      "title": "От жалобы к диагнозу: синдромный подход",
+      "discipline": "Гастроэнтерология",
+      "slug": "43_ot_zhaloby_k_diagnozu",
+      "sources": 6,
+      "images": 10,
+      "agent": "topic_43"
+    }
+  ],
+  "copied_files": 606,
+  "sha256_verified": true,
+  "missing_source_images": [
+    {
+      "topic": "23_ishemicheskiy_kolit_anorektalnye",
+      "code": "23-02",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "23_ishemicheskiy_kolit_anorektalnye",
+      "code": "23-04",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "24_polipy_skrining_krr",
+      "code": "24-01",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "24_polipy_skrining_krr",
+      "code": "24-02",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "25_pechenochnye_proby_zheltukha",
+      "code": "25-01",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "25_pechenochnye_proby_zheltukha",
+      "code": "25-02",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "26_lekarstvennoe_porazhenie_pecheni",
+      "code": "26-01",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "27_mazhbp",
+      "code": "27-02",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "28_alkogolnaya_bolezn_pecheni",
+      "code": "28-01",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    },
+    {
+      "topic": "28_alkogolnaya_bolezn_pecheni",
+      "code": "28-02",
+      "missing_variants": [
+        "light",
+        "dark"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "topics/01_metody_diagnostiki/1_full.md",
+      "sha256": "be632fd750d110d35786ff9de4352730424a7eed68568620c19bd37d6f46e3ce"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/2_short.md",
+      "sha256": "46f862b509b07dd295ce1da2db046fa3c71a43e40989f73bddd531a129f76992"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/3_card.md",
+      "sha256": "d1e8aa9313b1afd666eab3893fd1308517ed1a5b52da4055688f93424e33f85b"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/4_tests.md",
+      "sha256": "b588fbbed61cc5454f03b7f44f716683fe5b725de76f2cd1605d646bf10dc9bf"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/5_cases.md",
+      "sha256": "0f3702f56e9750a09419754aa3e1fa37d0a63c139788b233dc0a5a1fa3633c10"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/5_cases_staged.md",
+      "sha256": "85b269f5913993cb59adf2b6a588ac0a8e75f0d0693632a9e20792252e6121e9"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/6_images.md",
+      "sha256": "908e331492f84a40b8f2d2edc333d434a72ed7919395d8fa234cc4f3e307fb8d"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/cases.json",
+      "sha256": "2173495e90a46d8cf56243473dbc49ddfb9d9a4459ea65520a3fb03ff99993b8"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/figures.json",
+      "sha256": "f037cf9376aab01383d9b9d9707f6e60b84ba6c10e9f70f68647d8df31658f2c"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/sources.json",
+      "sha256": "3b5431156397676df0e464dd1642c4dfd2678895f0038bebb32c7ceaca57cfd3"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/structure.json",
+      "sha256": "98040101df378c93f6a51295e7bdca3beeed7962ff9b3509e2b330b6f193a459"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/verify.json",
+      "sha256": "5d0025d01547a92dc8033e93392564f55a9a08c3cfef176dcb295d4545ea09a4"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-01-dark.webp",
+      "sha256": "a89030eba6212fc0aca927d3b6f03d91ff2c3fea93dbf75cfd020aeadf2f9398"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-01-light.webp",
+      "sha256": "d1780b5843f7ab5fca4667b64493eaeeed41151547343cf4c024782c0e3ac8e6"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-02-dark.webp",
+      "sha256": "08fc0cfa038141ebc6599e60d2b9f8d6b9ca36d7a9d7dcf1f40519c652a61c6d"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-02-light.webp",
+      "sha256": "ec5a4ab373df0aa094c93577be84b6dc29cace99a0fb1afbdf5f5ea358264a75"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-03-dark.webp",
+      "sha256": "248354df04d11e9597ab756f69ed4591bb3f4b4c7195fcc7b5c068deb3506da5"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-03-light.webp",
+      "sha256": "2e9f23142a918cee653a2b8c8cd204b1a6f2ed64c1ef8691645557eaeb7d03bc"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-04-dark.webp",
+      "sha256": "4ad8ed4fd81a6645f333f00b4c72053bd56d04b82a5e4054a70e0ba2a4898728"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-04-light.webp",
+      "sha256": "5798e7ed3fed43ae760a46a2d9f1e98b01b2e9465708231b391ac43d15f6226b"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-05-dark.webp",
+      "sha256": "601f6379f0b07db333b6ef5c2fce59b0232e516bc01aee5ec12cc6be1513bb25"
+    },
+    {
+      "path": "topics/01_metody_diagnostiki/images/01-05-light.webp",
+      "sha256": "0691edf7522a5584ff6174ee06508a58b628145347c0b23e9be7ef2e917e0ef8"
+    },
+    {
+      "path": "topics/02_farmakologiya/1_full.md",
+      "sha256": "f9fbac2e3a45de36725ca00e3f6ed6e3d73daffe65d17c56a61a567b124cb7ba"
+    },
+    {
+      "path": "topics/02_farmakologiya/2_short.md",
+      "sha256": "e0db8246a9d8e8ede2932e2081166edd46103750cdcd695230f975a5e8895f41"
+    },
+    {
+      "path": "topics/02_farmakologiya/3_card.md",
+      "sha256": "9364220901b204ae343c98f94790f3a3a426b583c8ff7430f66ceab107222ebe"
+    },
+    {
+      "path": "topics/02_farmakologiya/4_tests.md",
+      "sha256": "a4b5eca62a71b48fa1abc189f40b2b4cf03c5a7bd52f909179500577b38bdcf9"
+    },
+    {
+      "path": "topics/02_farmakologiya/5_cases.md",
+      "sha256": "c9df185ea9d116dce4be5160f47aa65906592a6706400db573f11fd9299382f0"
+    },
+    {
+      "path": "topics/02_farmakologiya/6_images.md",
+      "sha256": "eeb0df9c98a2ef6e2e0517ee9ad1b3d954fb6e6badac127cd4f00f85b801d59b"
+    },
+    {
+      "path": "topics/02_farmakologiya/images/02-01-dark.webp",
+      "sha256": "fcffa9b04365f39fcd2abbc324f8522fe13a05df1f406a5f9179deec9475d354"
+    },
+    {
+      "path": "topics/02_farmakologiya/images/02-01-light.webp",
+      "sha256": "268fbf885b0428bc5a1b539cf78ad6bf35683c6ed3730d7ad82a54e3c8e67d8b"
+    },
+    {
+      "path": "topics/02_farmakologiya/images/02-02-dark.webp",
+      "sha256": "196d980b29b24c348c719ae062816c0967611624baca94e006e512c9577efdaa"
+    },
+    {
+      "path": "topics/02_farmakologiya/images/02-02-light.webp",
+      "sha256": "fe11b4a189018ebc0b5c20a247720fea07792f5005518ab0da6a1091cd7bf286"
+    },
+    {
+      "path": "topics/02_farmakologiya/images/02-03-dark.svg",
+      "sha256": "cfa1b242e6bb89b2d9abcdcbee186a0481dbbd36d23be2e439b081443929465e"
+    },
+    {
+      "path": "topics/02_farmakologiya/images/02-03-light.svg",
+      "sha256": "4d81ba25df4af46069ec19f29ecaa792be0cb03403884ba4c84b10e286692466"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/1_full.md",
+      "sha256": "0632e9b969f0971e0dfa844533778746063d7c7e3264eb96667b138ee2611489"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/2_short.md",
+      "sha256": "6bc64d560a37f8407f1ad743eb5b17cc19738ff5dccde338df05341439165c4f"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/3_card.md",
+      "sha256": "b7510de575325b4ed0c7cbecbacb3f7a06300efa0214d34ee4bcd1c53d706e7e"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/4_tests.md",
+      "sha256": "a7dc5b0a197de32fd401e74111038b397dc6df62c444bf12580d10997d5e939a"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/5_cases.md",
+      "sha256": "c0b3ce641fa91789d06d6c471732d81028d177b2eeb5cd4b0d23134024a579aa"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/6_images.md",
+      "sha256": "fc74e28840d68e732f8977c2b71686f52046231243a5c5f6d25719e3428edc32"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/images/03-01-dark.webp",
+      "sha256": "86f501fdfb2348aff627366d8e9c3e27952e4f509367ab921bfc4274cc4a6208"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/images/03-01-light.webp",
+      "sha256": "83c97613cb94d7d6c1d37d5ccb85ec25d025790e5bd5e9b151ea02311bdf0ef9"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/images/03-02-dark.webp",
+      "sha256": "384b7eb8c1ad37b549dc1da7f20b573215d35f3b2f1fbec69b361b31d3720586"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/images/03-02-light.webp",
+      "sha256": "bdf4380f04711433b03034a4a7a5a7c09a8f7d8b3f97f74dce61647d3262c4a2"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/images/03-03-dark.webp",
+      "sha256": "f42688656f57e9f3d0b9f5469259c5e5f35a7f53a103352045191fef8e7d149b"
+    },
+    {
+      "path": "topics/03_organizatsiya_pomoshchi/images/03-03-light.webp",
+      "sha256": "63bac8e6e9986f4bd25c94b5aece30a9a82f3a555651ddf682f86290996e9519"
+    },
+    {
+      "path": "topics/04_gerb_barrett/1_full.md",
+      "sha256": "27dcffd2a0926599881ec83232f960013bf6d35816fccd3311431f59e5f0d3b4"
+    },
+    {
+      "path": "topics/04_gerb_barrett/2_short.md",
+      "sha256": "2ed3400ee1cbe00b3e61655b2d8b6a2a51601e3f1f8156a1c9bdf1ace6814502"
+    },
+    {
+      "path": "topics/04_gerb_barrett/3_card.md",
+      "sha256": "b299361b891e3ceff74197edc17bcaf838f866533d0fb7cc93a5093fff5142fd"
+    },
+    {
+      "path": "topics/04_gerb_barrett/4_tests.md",
+      "sha256": "b80e219c87fa5d993bbe20223d429f9418f8e4248a802b4eb02b8c98f5a2db08"
+    },
+    {
+      "path": "topics/04_gerb_barrett/5_cases.md",
+      "sha256": "479e3009f6a0a599eaf601a4575eefcaebb7ec21d1dd086ea1494af0f6793c55"
+    },
+    {
+      "path": "topics/04_gerb_barrett/6_images.md",
+      "sha256": "46c221736addbe75715b9a1e5d32104257345a05a5261e44b480aadfd6d03bac"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-01-dark.svg",
+      "sha256": "ef5ca161e26724c702f490850f5f490a58fe41d0e1910b8ab235d9e4e8bcb3fd"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-01-light.svg",
+      "sha256": "a218ed07bf285673ef7e453fb97599cb080bc04748057fb9ecfc0c0bd954efd6"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-02-dark.webp",
+      "sha256": "312a3a583c4b2ec95784436499bd32596bb00b7e66d600d114b773a179877f21"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-02-light.webp",
+      "sha256": "8dc9ef6d7c3f9343d40adec4ac6bc3f1e89362429908c1958e500defb5fddaee"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-03-dark.webp",
+      "sha256": "5634da8419fec17651a98346e1912222a37519d3b9c70cf0d06001eb2118fb20"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-03-light.webp",
+      "sha256": "4a452d12fa263dd9d9b29ff3cc24fdbbf216e85302883c8c5451594be13cddc7"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-04-dark.svg",
+      "sha256": "39a60ced195a60024b958da48a3cc2a17e55cd80004762bd7c3c16a38a67e69a"
+    },
+    {
+      "path": "topics/04_gerb_barrett/images/04-04-light.svg",
+      "sha256": "25766aca522c426108dbeecc33f1332c757988af1016ada40d01b7b447b005d2"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/1_full.md",
+      "sha256": "6db88e8e608a61b0d44f86b930ddc37c0b8dfe4b55ac66abf1f8a9c309b8b486"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/2_short.md",
+      "sha256": "662877944c2d43cac58530ee807a658cbf7d1bcf8b92ab5d314288ae911e59c2"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/3_card.md",
+      "sha256": "f4adb39538f1207e2d64c19e5c7c369586fbecb54f9c37bbee172a5843c79bcd"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/4_tests.md",
+      "sha256": "8e2feddeed58b3e84075b49a897dbe3bceb3ea79adfd5cb4986ef29c8e682f1f"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/5_cases.md",
+      "sha256": "469cf34b1bc9d071828878e7c0a87d1dd4421bd0f363e621b139013d9a183abd"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/6_images.md",
+      "sha256": "daaf139a0c389831ae957e8722578cc1d73fbf99f52db33de01d6b8ff3c6a4cb"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-01-dark.svg",
+      "sha256": "f03af9735b73961d4dda78261a3a1787a7d1242db51822691381165d9d873ace"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-01-light.svg",
+      "sha256": "eef4f67ceb8ca5c5fba71196421a8f19a1198f8638092c2f3c47d0fdb0896716"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-02-dark.svg",
+      "sha256": "71b05c7321600a016d15ae35e87aee7ed8314c1954f6099a3c1b4737ee91f1ff"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-02-light.svg",
+      "sha256": "9e34a9d4cdd3de1a744377d2bf5fda85a5b5c9c94b27aa4bd0ba6fa69200fb56"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-03-dark.svg",
+      "sha256": "beb5bebbaf784e3ee4e0badac1db694e466e5bf986e2e401bda17fa68de8bfc1"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-03-light.svg",
+      "sha256": "ae7a5834771b15bc3ec591ec1b044f55826d98af8db4cb998cd0c6c1834fe5c9"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-04-dark.svg",
+      "sha256": "1c4d4e5224e0e0ddad5f07fcef2e74f9f6014b7b28531721a93363f3b206a073"
+    },
+    {
+      "path": "topics/05_eozinofilnyy_ezofagit/images/05-04-light.svg",
+      "sha256": "78e76282ef1a8a1aefeccd9bc24699be9d6ac3c254a8e3781445ef9dfd420589"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/1_full.md",
+      "sha256": "1de27b117a053a7e1a693fcbe6ca4e8687209ca4d7fbbb6fec7adb771eead8c3"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/2_short.md",
+      "sha256": "385d9819fb986c8e96cd8e052761d0fca3dd0a8fb8fc9d3a5937d6d2f3581c48"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/3_card.md",
+      "sha256": "638366587d20acc17daa87d59351cc5a436046b8379b0a6e1f4fc44f68cdf144"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/4_tests.md",
+      "sha256": "9845f12447b95eb9fcc0c80f5d0c4cf778528ccf3a08b06e5755174a9a7d7ea9"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/5_cases.md",
+      "sha256": "2367e22d798a1edd89a027ebe326fc00fff81d97eb629514160820ad9460f6f8"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/6_images.md",
+      "sha256": "dcdc7c8328bb56e84552ec51aa2a024dc0f5276e8c59423f412a611caa360857"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-01-dark.svg",
+      "sha256": "18b9a73ac104fc725220f8155e35204ef126b04b233b084315bbff33382fd567"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-01-light.svg",
+      "sha256": "6ffdfee4cea13f39236d4c09bffcdb73dd4a543d5af53f691fa4902b091b817b"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-02-dark.svg",
+      "sha256": "4ff2292147bbb9f775be5389006e59be8645aef415173ed9870d051b6b01bb3d"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-02-light.svg",
+      "sha256": "98afea1dfa038da86df52708019ff91d2609643b8933aa40732700dc58ce2487"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-03-dark.svg",
+      "sha256": "9d1acf73b753251c4f2a33390ae15ca397c854ee323c89a5c381154dfbee4b84"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-03-light.svg",
+      "sha256": "73c6f1b4021d542c4a9ee5cd7a75ba269204f334a7d2ef6f855d705d57e5991e"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-04-dark.svg",
+      "sha256": "8f02d794e0a272eac393a183cc1e7a7701267987ae99881b9e16d0ea9a34976d"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-04-light.svg",
+      "sha256": "4ef81c3b39ddf3bf95cd862234200c112bbff4d570b5506db282b212d922eec6"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-05-dark.svg",
+      "sha256": "aed2fb466c03547259f843edb4c87d48705c174fdb40a52d9534ac445bd3daf8"
+    },
+    {
+      "path": "topics/06_akhalaziya_motorika/images/06-05-light.svg",
+      "sha256": "4d2309f95c34798dc4f42e663b08104a32b68b613c6099b6846acb65a9f606da"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/1_full.md",
+      "sha256": "9a073ba967950a6452d98685141272839c025c71403e2d1aa0505b28a3597627"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/2_short.md",
+      "sha256": "51521837fa82442c2e5ae9930ed1cd6abd3fe02c7ade6e6b73d1821872eb16a3"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/3_card.md",
+      "sha256": "450be9403a1748f5764cc3e28fe9523374fdc6042e228aefba49ac42653c785b"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/4_tests.md",
+      "sha256": "77f346568d6ac374bb4092e5928de6b53e5afb91abc2f7a32c6226c4ec6161e3"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/5_cases.md",
+      "sha256": "b115b67f71cc95c18a5dcf20bb7efed317e1c8ec646da98ab144cec0f2dcf80a"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/6_images.md",
+      "sha256": "6c45ede7e0df27da5f409e9d2a0959866dcfe11d236dfb7052aba5f79e6ecde7"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-01-dark.webp",
+      "sha256": "8b08244fb5b976a8c2d3c5bece466303e40148251ed12e97e6592d7665ea2fd9"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-01-light.webp",
+      "sha256": "d5a9da5a51cb591667eb3b03bac7fb52660c264139106960a20d434448d77d6f"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-02-dark.svg",
+      "sha256": "d52b5aef61c066f7902487c343bb6a5c331494ba44445bc9a077155e1194865d"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-02-light.svg",
+      "sha256": "afe1c7a733b2dda4663e47a01803d223cc24cefdd40706bbfd7af16ee887a5d8"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-03-dark.svg",
+      "sha256": "4cad874227e65fcd6f68c016849c7a0aa62935392cef698635f165d8b73df5bd"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-03-light.svg",
+      "sha256": "1562d5b69f9186d9e90bb4f625b08da0d3a56923b51def241d39c3de3c2a8efc"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-04-dark.svg",
+      "sha256": "9455dd4bda8f60374a18ba3a74cf82c2f1a9e5a7ad30e57e09800ef46ea1ee2e"
+    },
+    {
+      "path": "topics/07_disfagiya_ezofagity/images/07-04-light.svg",
+      "sha256": "ed2f7f351abf813412d45dfb6b91341c317d3ab422fd156a9adda29dbcf8411a"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/1_full.md",
+      "sha256": "f0dad1881b2ea9a52db518020a0c9dfb4d38127d736805eaf9b842c7f7c788a9"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/2_short.md",
+      "sha256": "afbf31a2cfe0af8403515fedf87100bc37492705e337ba3c9d548e1b70865dc6"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/3_card.md",
+      "sha256": "2c5a019d54799c2ac02842a0bb15721b99753013cc4a4b17f159e23349a0132b"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/4_tests.md",
+      "sha256": "2e87c482ff77eea7e95eeecc5ac16d8b441e75dc6a631e476382da0f6cd043b0"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/5_cases.md",
+      "sha256": "3e4921bb75e3d1cfef8ab1517b185ea9f05045100bd7a34fe534edd4ea24f1e5"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/6_images.md",
+      "sha256": "86514a7a048b31d213d3171d73aab6edd89e842be4e59fbd502ec6946d6e1d4d"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-01-dark.webp",
+      "sha256": "1a16ef033f0877154da307eed10d888ff580e8f5fa1d4ff302d04ecf6261a1c6"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-01-light.webp",
+      "sha256": "a548ebbb6e594481be80e6639701932dfa2bc53b566fd547f711a973f896ada1"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-02-dark.svg",
+      "sha256": "5e79d4d2f0b6882e2ff2ce2cc516012910e4ef2ada9bb9a8cc6e209f00addc36"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-02-light.svg",
+      "sha256": "c01d6718fadf7df53136b8774d88053c8a1c67e42648e952642de692f41eac52"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-03-dark.svg",
+      "sha256": "e7f28d74db49b7ea083071148018cc04f75de17e65414d31d8c6a6030f7873c4"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-03-light.svg",
+      "sha256": "5bc265e15cff181c8db30f4af6931d933d968074e780f1d2e2bd880cf96691c9"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-04-dark.svg",
+      "sha256": "6ddf03b613825847c303a1677ecbe8b6b9f09c6a03be9291ebea645f565c31af"
+    },
+    {
+      "path": "topics/08_helicobacter_pylori/images/08-04-light.svg",
+      "sha256": "c3f3e13ce2626a3b20352cb5ff50f1e33a58223a4606ef675003171374809d5a"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/1_full.md",
+      "sha256": "66c27289892d7a4a2f9b9eea78e28ab7fedd3a754d0183106dacf54ef4ef69dd"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/2_short.md",
+      "sha256": "f38288797ca3517ab6e98f069dc282a5b25dde4ba6611d0bb1e9a8321bd2d746"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/3_card.md",
+      "sha256": "8c419922cde84518ba2998b9d94b17e43c526004c1c0e0a5a7a048f7f30750c8"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/4_tests.md",
+      "sha256": "c893ff9c50abe7c4faa194166e2c16ba2ab88e70e6df9ac7868ed76debf2177d"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/5_cases.md",
+      "sha256": "7741d6c5fcc28672b8bdb983c85d24642dd4a15efbf3fc48935d5c1a751ce31f"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/6_images.md",
+      "sha256": "ce9103407ae07f2f441529ca097fb495cb038ead67eb468f684ac8d24ce2616d"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-01-dark.svg",
+      "sha256": "8bdfb15c0cd6d0e0871a9969d99bb79f5c2a0f90a360d45a181b55c480948d62"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-01-light.svg",
+      "sha256": "d362e75ba3df655c2c50a1b0dbef7ef45bc47e8fe9d2b2ed54bfde5428734816"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-02-dark.svg",
+      "sha256": "6e7f061373277f3beb56ee76ae9f994d24dda4302356d5c256c7bd68962f8df5"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-02-light.svg",
+      "sha256": "5ef666041e2e66156bb354cef867bc7fc1d1092c5c19d92f18fc095147dbe4ac"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-03-dark.svg",
+      "sha256": "b67220b2f7ba60898532a6a848b865e1824b8fc93f653d322768c530315b7a8b"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-03-light.svg",
+      "sha256": "8f0c87336966f0d7505e088d316c2c76c07632ee6d0d864503d1f5cbb07c6a2c"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-04-dark.svg",
+      "sha256": "224f9463498a1564ef19c88876851e899b2efc5f6391311febdb99f4ffa3a3b7"
+    },
+    {
+      "path": "topics/09_gastrit_atrofiya/images/09-04-light.svg",
+      "sha256": "f145c01335561d494203d36411b2fdc3f47beb746d90b727f2cebdaf30f6504a"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/1_full.md",
+      "sha256": "a089f8d804c15cf484eef6d823d5eb53c7ae7adc08d92a31aec7079cca89ea87"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/2_short.md",
+      "sha256": "800682cab2586fceef884e9f9ab6bf14696b5e9d220ec04bad32e62a39af5afd"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/3_card.md",
+      "sha256": "1727bb5b1e1d09f134fb37c7fee7ced569e85a0332118004afcdc0a67438c579"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/4_tests.md",
+      "sha256": "0347a913cd0632cd9e40cb7666940acb8d4675be8977d1bb320a577e4745d19a"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/5_cases.md",
+      "sha256": "db1f164121089897b8611495f4544df9a050f22980171faab6dbbd98f9829a64"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/6_images.md",
+      "sha256": "4561ab6ae45cd442fabb5efcf54159e87721a4877552ee68ba0d1060378fd558"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-01-dark.svg",
+      "sha256": "21c68c0f7d3b7c1f60e4dda0949d8a4f643eeaa7d88118cfe77a86ce0350ed7b"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-01-light.svg",
+      "sha256": "3c831fb34941830a373f9268ba0b3626853835c54ad0eb1838d8c11f07725895"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-02-dark.svg",
+      "sha256": "1f7b71f0046208bd50566229a01853053824e3909e99419b98db1f9cb464b263"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-02-light.svg",
+      "sha256": "bc950cff0f638c05351b9928ca2b90e1a5f2d19741eccb631114d8155cc5eac3"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-03-dark.svg",
+      "sha256": "c5ac21711f3c39272d7983aec42a87e41e4debef383d90f43c0f24ad43e0343d"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-03-light.svg",
+      "sha256": "34db68d83e26daccabd397cffd91b83ff70c68290130e72346d7a35676e4a65e"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-04-dark.svg",
+      "sha256": "46d5d32737c53a00db8e445af698b066e2bac370b70b50d914548f5fe196ba4e"
+    },
+    {
+      "path": "topics/10_yazvennaya_bolezn_nsaid/images/10-04-light.svg",
+      "sha256": "e36cd291d47b2b872a9ef09f6287c97d0ef6bbc493732501a76314be7fb9b0cf"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/1_full.md",
+      "sha256": "c31d237ba47b7ae0302ac91dd91ee2d76e22aa3d4389e48c689564e163ed5ecc"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/2_short.md",
+      "sha256": "3129c95d750011d8c2952ed8dad43d5a168b30cd65371b55c8c2e31d8b6f1288"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/3_card.md",
+      "sha256": "fd6b0c012df83daa23c459dc8bc5fd14df49404e717df4633fc92d863b047491"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/4_tests.md",
+      "sha256": "73538d8509dab5b42ae8eb9a9ca8e7db54a18de904c1254814168deffd1cf501"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/5_cases.md",
+      "sha256": "62abf15a7bf0adde138f9d81d9588685a90eac60f32d472706d9c7159a7953da"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/6_images.md",
+      "sha256": "c143ec5dda87477dc652140926733feb05ffd9d7bcc384d7fddd6dfc115cf713"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-01-dark.svg",
+      "sha256": "98f765316f15850c4a2f7ad57b03a2174982680c7c7a344b21c6ef73398a9de3"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-01-light.svg",
+      "sha256": "1823606990d3e9fd24652890573cd3ce36025c40e68be46c337bd40c2b19278d"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-02-dark.svg",
+      "sha256": "b60ac7df7072410fac7b7534764a1d947ea0c675ad8f2324002065f8c031336f"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-02-light.svg",
+      "sha256": "10cf90f7a6ceb69c99f8990c8246e680d32a069e472d780714ed7552c2afed39"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-03-dark.svg",
+      "sha256": "b530832c7298c1a2b60f27073dc262e659d1955280d7ce9e41318487aef7e414"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-03-light.svg",
+      "sha256": "8d615831e2b2795ce87ea3c5c05d0f1720b8064503c1f9671c9c15d31e19d80f"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-04-dark.svg",
+      "sha256": "dda6b8a16f280e39c2ccf75e9c5c1ac344dec3802c01827bb0ed1507ab26398b"
+    },
+    {
+      "path": "topics/11_funkcionalnaya_dispepsiya/images/11-04-light.svg",
+      "sha256": "de8c3130b365337e4627b071c29297123ab9473fa4dd2d6224bfdd422a5daf55"
+    },
+    {
+      "path": "topics/12_zhkk/1_full.md",
+      "sha256": "75dc3c80329abae854d55fd9d1d38c7db280e82b062e014c8d6c32e73e286026"
+    },
+    {
+      "path": "topics/12_zhkk/2_short.md",
+      "sha256": "9bbd6dd2e707e1f4a7514abe33707cae6fb2e60be48d088bd0286a337fa23df3"
+    },
+    {
+      "path": "topics/12_zhkk/3_card.md",
+      "sha256": "f600f7dec927ff53f9895e701cb2f48137594543337e215239475295a7a2008e"
+    },
+    {
+      "path": "topics/12_zhkk/4_tests.md",
+      "sha256": "2dce93fe5fffc3a9cf3927fbdf6e8ca8155ebb8e685788370499eb714d47f534"
+    },
+    {
+      "path": "topics/12_zhkk/5_cases.md",
+      "sha256": "192a9239566effed85cdfaa8895c74bdf1899f0f04857b9dd7c3dd450c685fb6"
+    },
+    {
+      "path": "topics/12_zhkk/6_images.md",
+      "sha256": "81cec8dc2b35f55838dce2accea27b9157f586b1351f68a781a59a196507770e"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-01-dark.svg",
+      "sha256": "8ec02c91885f9189d5a4836e8507a688144b48e037af391adf8c4918f6ff4976"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-01-light.svg",
+      "sha256": "d09d21d7cb03dff5fef5dd9d6a1ded351ee523ab185add5557397b3a05462592"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-02-dark.svg",
+      "sha256": "63cf2b4f3ef7fc125d4724f249c96ce41eb4194dda458b4ddfe3f4db3b8c504e"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-02-light.svg",
+      "sha256": "ea63b088f9afb74cbb055ec7336fc553585be0dbc89490c10f50594b86dc1dcc"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-03-dark.svg",
+      "sha256": "45b000ad18f67df6eea51e40b115f41e0ab72a7c5f9fcbb473b83fb407922f21"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-03-light.svg",
+      "sha256": "f152905a3762b32e1ffae7c2881d4ae69872b32c022c09ac37afaf4adf621367"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-04-dark.svg",
+      "sha256": "5075f8188359de1de128c8bd9f12210fc76394df3d2b5c7c7d9bbe71e276f920"
+    },
+    {
+      "path": "topics/12_zhkk/images/12-04-light.svg",
+      "sha256": "3815924aceefa2f48582636a121c96e3edd2e39faef991f874efb3bc8245d295"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/1_full.md",
+      "sha256": "e8803b64d33013557d172e5c003108750838724746bbf2bb901f34c72928aec5"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/2_short.md",
+      "sha256": "8c10a638e4aa74ec94c86a0ae6cb4570dffc9bf3adc27d02865b4f7c7d86b6f7"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/3_card.md",
+      "sha256": "3c8e2e03fb12abe0b7d0509c6686c5d6c38690f72687fdab901039e8bf0a0f9e"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/4_tests.md",
+      "sha256": "ef44b897e18e949f9a0b139dcb64d5ac36a664a99414f3461b5adab622d7305e"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/5_cases.md",
+      "sha256": "d675450331f345c392b9ec3396740caaeae0386eff0fdbb97100c8225bdd290e"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/6_images.md",
+      "sha256": "21b6a3dadfb82ed5a525aeaae4840b98bdfef89b370bebc43fb0686f30914700"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-01-dark.svg",
+      "sha256": "7ff4d938e812bedd4cba96db3a85624b2a4c9f9c46919f5161a2884e2d34cefd"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-01-light.svg",
+      "sha256": "98d752746974cdba74edd909ad10df3e4bdfa67929292b078a46a772646337fa"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-02-dark.svg",
+      "sha256": "62944fc9fbafd5a325e0f727345b38cda085e32b2ef65c7ee124e781f781d1f9"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-02-light.svg",
+      "sha256": "5bda227f58939b79b28cfa4885bb20cc47d258fef5bcebc2077a233316cc9d73"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-03-dark.svg",
+      "sha256": "9548c06a13881a0341fd66d3d3be1fff5099c7c263e99c7832b26dc9e820d427"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-03-light.svg",
+      "sha256": "410a5ff00ae2094c3b132ac8d1f550b52b0a180716cec0a06375ebef01db1a01"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-04-dark.svg",
+      "sha256": "bae4b5851b18a7401a971f61d1eb92acb3d909280182c2188502316e326228d7"
+    },
+    {
+      "path": "topics/13_predrak_rak_verkhnih_otdelov/images/13-04-light.svg",
+      "sha256": "3252e1076e4fdb4bc9ad19d080530c0f912701bbfa4443619f4f26029545f817"
+    },
+    {
+      "path": "topics/14_celiakiya/1_full.md",
+      "sha256": "52e1c906f56c10f5aa87afae1b78c21fece21a72cc3a6374282259b3a665e7bf"
+    },
+    {
+      "path": "topics/14_celiakiya/2_short.md",
+      "sha256": "b10184bfe9030a98fa52d65f019e35587308d7a93f036df953570f6ea5a43c5a"
+    },
+    {
+      "path": "topics/14_celiakiya/3_card.md",
+      "sha256": "5cf0d63111e55e607a2d0db50d2d7fdcbfe800af09e8e591398eebd2d8de27ae"
+    },
+    {
+      "path": "topics/14_celiakiya/4_tests.md",
+      "sha256": "6b5da6cca02677fb7166dc9eb8ff64ecb735e1bd1c0dad518f5bc02cf4d5b6db"
+    },
+    {
+      "path": "topics/14_celiakiya/5_cases.md",
+      "sha256": "bcfc1c6d8d0d1515029b92c302f6cdbb2052d316dfdd94acc40310fd05b438dd"
+    },
+    {
+      "path": "topics/14_celiakiya/6_images.md",
+      "sha256": "8aaefb3e6b3f1b6134ad2b1d1f9cab7ba82c70f9d3e182d78753b08fe3294d69"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-01-dark.svg",
+      "sha256": "49b06621894c2fac7c6642623a615876baf2545882cdb223c3258fafa23f93d9"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-01-light.svg",
+      "sha256": "94588fe75198243b85557876bc39b0abc86709933cc3af034c755389ec4e0394"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-02-dark.svg",
+      "sha256": "925c3f1178cee6359d11bd5901dfe411adb81a9ec5bf6f10c2ac6ecee7867d6c"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-02-light.svg",
+      "sha256": "44f41f74e0778089b284a9b32dd9400e67b53fa631614c09d1a62c806968c1bb"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-03-dark.svg",
+      "sha256": "e69baca8970e9c57a1591cd64b972bab103266d1e9a51c221f8acde235427818"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-03-light.svg",
+      "sha256": "94077f1b3879ce8fa810fcbb4a80c1b3562b8e791a5c1ceb9e1e38f0aa2e707e"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-04-dark.svg",
+      "sha256": "c2c77ae00c8b17e51835a75998d3d902e9dd4ae5a7301e11b6b14dd779f343b2"
+    },
+    {
+      "path": "topics/14_celiakiya/images/14-04-light.svg",
+      "sha256": "a2f1a535177d40a5a64144675d0e092ab7a214f26ea96e284bec4236e92acb99"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/1_full.md",
+      "sha256": "a93736f7666700d2c724a1978be65a9f612766225cae2aa46ed56cbd45ac5627"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/2_short.md",
+      "sha256": "4a230b7df0a4fc9f7c2774f2115be88b4e2d9937c7e82e4bf468264fbff0d12e"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/3_card.md",
+      "sha256": "e12e567c95080ea39e8bcd92444996cfb3f6f215c2720254bbb637ee214fa8e1"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/4_tests.md",
+      "sha256": "7ca9734b25661a219af7be6f1c10bb3df790702620b8df1efdb9ab6fe33fbb47"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/5_cases.md",
+      "sha256": "54b332ea41c324b490dce178fa247154b60d763c74f8d85a6e7c51061236a0e6"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/6_images.md",
+      "sha256": "3a6a5ccc11c1b03e1364b3b18c2cef0a492e996a2b86a3e62324e7d415c1708a"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-01-dark.webp",
+      "sha256": "dea98a8a4349cd41cdd93c0c66b19f0d390e862dce6acbdd9324cb300e710dc3"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-01-light.webp",
+      "sha256": "1a9768dad338f4c44fe61b817ceb8be6e9532cac126046341afed8e5f3360e24"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-02-dark.webp",
+      "sha256": "c3fb5b8d6fc186647ca99f605ce0d0c542c20d113dcf14181675c9c4842e25e0"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-02-light.webp",
+      "sha256": "76b572e7b78f395db838e02b325db4864d96ded29fd3abada15cd8f022a7c950"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-03-dark.webp",
+      "sha256": "08dfb66c9d61e02a9d392db3450f12fd9f17a6caec39ece26eeb16c5e437c532"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-03-light.webp",
+      "sha256": "26e11b5c1946d3c4f24d9906dd34464bba69fb6ad9a6d6b9d48c5bc705dbd53f"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-04-dark-v2.svg",
+      "sha256": "1b3386c4222fcb3ed303fe785627e63df2dce4075d87063315a732c7abfaeb71"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-04-dark.webp",
+      "sha256": "b74a5bcebf60bed24619e46ac80eb6b34da7be861945c09a823d5fc90367ee6f"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-04-light-v2.svg",
+      "sha256": "5fe112dbaccacf60ed9db5a6c1ec4799d3134c1a5fd30966c2d551ecc1d20240"
+    },
+    {
+      "path": "topics/15_sibr_malabsorbciya/images/15-04-light.webp",
+      "sha256": "e556f3ef6142060a43fbca38a1bf0267a7ba270bbc21c8928e074e496a6565be"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/1_full.md",
+      "sha256": "f6e180ac0eedb0c9c1ae5cb3b501336a0300cbde82f39fa85c2f835923921eb3"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/2_short.md",
+      "sha256": "66ce7bbbf85573997ff2b17d466e211e6e23b9768280238edc9f74ebb01e77be"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/3_card.md",
+      "sha256": "7682d00e716295d6cfdf7bb7891df0fc0df92f678b3480b6f2a9b990b3a9370d"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/4_tests.md",
+      "sha256": "50885458a0b2e41e0fe3d348700e86dd9b5f217ae9348a3e9b86c237d4336b66"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/5_cases.md",
+      "sha256": "42cc052d6b579c0a6b44f4137829a14ff4a14e5620bce54d889b1c7106ca86eb"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/6_images.md",
+      "sha256": "9e6d75977530f1942d569a1b183ec0a2068c74ae424bb21bb3bbdaabfa68df8c"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-01-dark.webp",
+      "sha256": "2c989521db0a447160cbaddc15915709e9b81ed4ec5736ee7cc95ab1d5b233d2"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-01-light.webp",
+      "sha256": "84b6117f7919801ee473dd030ad6985039aaa06bf2e92b25a50afec9bb2f9d80"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-02-dark.webp",
+      "sha256": "d6c28ec0c703a8330adf6c14e939e44a3c7db1a785c054acb9eb416ba8538cbb"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-02-light.webp",
+      "sha256": "9178993e5901072a0759c7c6aab449bd39a06702e0d877b99232ab8109b75d0c"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-03-dark.webp",
+      "sha256": "a57c649c85ab977d1a345c74499e925d2c8ba46060bc03f6cb69fadb4ce21dd5"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-03-light.webp",
+      "sha256": "b742135e48e15c8a7b0194cbefcf378a527e37d75eec882b12c6807b58261c03"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-04-dark.webp",
+      "sha256": "3863d2fe82039c688b0f6effa6e5598a4c133f69cf5d6e21ba235c49906022d8"
+    },
+    {
+      "path": "topics/16_khronicheskaya_diareya/images/16-04-light.webp",
+      "sha256": "a7337122e684ef5c550346caca1aef478f7111eb68d7de893cecd15a12777c0d"
+    },
+    {
+      "path": "topics/17_srk/1_full.md",
+      "sha256": "48933fee66a8622030d3a42f2095416cf36bdb4e20c8badaf29b06cb7af33bd0"
+    },
+    {
+      "path": "topics/17_srk/2_short.md",
+      "sha256": "d4459c519a34ef03f19baaa9b42043cb43ef3278a382312f47d5843d1bb1cd12"
+    },
+    {
+      "path": "topics/17_srk/3_card.md",
+      "sha256": "30214e20dc9acb10ce9cd28da583c5644afea511aa0eea0548626cc79a78d0de"
+    },
+    {
+      "path": "topics/17_srk/4_tests.md",
+      "sha256": "15bc72fa0515d9097f9710c162b419cb25a04145eb52f4847bcf960f9ef6b13d"
+    },
+    {
+      "path": "topics/17_srk/5_cases.md",
+      "sha256": "9c6554fcae08286c9a4f590311ab7de1697ab9c615fce299ac5ca92d9f5ab7b5"
+    },
+    {
+      "path": "topics/17_srk/6_images.md",
+      "sha256": "267926db55e41b6a9c042715308c590d8364432f91aaf619bf6a1f5142002f7d"
+    },
+    {
+      "path": "topics/17_srk/images/17-01-dark.webp",
+      "sha256": "c6b788c6d2332536c71a0f88daa11dae19a000b8d4f59ab74a89bd5a6fda31fc"
+    },
+    {
+      "path": "topics/17_srk/images/17-01-light.webp",
+      "sha256": "19d492e0f1fe6f9361e4b73622b6457fbe662674b3aba1f820ec9873dd3bd308"
+    },
+    {
+      "path": "topics/17_srk/images/17-02-dark.webp",
+      "sha256": "aea38799814d1f574cf7708c28b365b00293c0aca5aa1255da6c84d8e8fa2fbf"
+    },
+    {
+      "path": "topics/17_srk/images/17-02-light.webp",
+      "sha256": "9557f08f3d51deda50ccd09e1d06c33aac36779bb8fa6f1bf453ea0e13eff4a4"
+    },
+    {
+      "path": "topics/17_srk/images/17-03-dark.webp",
+      "sha256": "bbaf6162fe9f8623104598144d254a7a8f5664fbf1119d8bb0261747aaf335f1"
+    },
+    {
+      "path": "topics/17_srk/images/17-03-light.webp",
+      "sha256": "df6762590a8e94e3aafe2977ec42a533cf7fd5de6dd7b1ba8b0d2cb863dc08e0"
+    },
+    {
+      "path": "topics/17_srk/images/17-04-dark.webp",
+      "sha256": "e50614731de8a9db64cbcfdb7b20d9a5f499da244607bd3f2cf0ae2da4789d29"
+    },
+    {
+      "path": "topics/17_srk/images/17-04-light.webp",
+      "sha256": "2f2c1f6b689917e459c41f4818025f5d9c525b05ff6536b181fa3fec810aa48c"
+    },
+    {
+      "path": "topics/18_zapor/1_full.md",
+      "sha256": "806ea0764ff25d57cfed37bcce0fff637562f9d58f28a48cac036b8bc4637a2d"
+    },
+    {
+      "path": "topics/18_zapor/2_short.md",
+      "sha256": "2a1018b966f0f3aae90bcdd08f6d9b69722562e5f0d352e3f1283f00e006aa75"
+    },
+    {
+      "path": "topics/18_zapor/3_card.md",
+      "sha256": "a65d9dbcc270e49bad0eec0db68acc4352c3cd85b8d7380093f212255bed3050"
+    },
+    {
+      "path": "topics/18_zapor/4_tests.md",
+      "sha256": "734ebf7d7823272ab3387052bdd313803fdf1ff9f15e7be96f16b9f131080543"
+    },
+    {
+      "path": "topics/18_zapor/5_cases.md",
+      "sha256": "a965ec217cff23af5bbe891f35acd801e1272788c80eab78c8c1a3bf99fd4893"
+    },
+    {
+      "path": "topics/18_zapor/6_images.md",
+      "sha256": "4befcc766913b7c3aa3dcf2ad0e3b096b22be3333980253de02a5fe2ce33d915"
+    },
+    {
+      "path": "topics/18_zapor/images/18-01-dark.webp",
+      "sha256": "08baa8025d19f7b47b4de5fca0d224cff65b55c43356b9f421cebaea6b30ee34"
+    },
+    {
+      "path": "topics/18_zapor/images/18-01-light.webp",
+      "sha256": "440256f8b40fa497bfd62f6c6d8653c04183b200e870eb1a7ce156eebf401a47"
+    },
+    {
+      "path": "topics/18_zapor/images/18-02-dark.webp",
+      "sha256": "330843fc48bd646521a1afdb4e849f389338f358d2e83b8864b02cb6f933f61b"
+    },
+    {
+      "path": "topics/18_zapor/images/18-02-light.webp",
+      "sha256": "b3ada064c8d14900633216572713988e8ef3fe71f57f795e6cff84cf6f4b661f"
+    },
+    {
+      "path": "topics/18_zapor/images/18-03-dark.webp",
+      "sha256": "e4cc4c55c1ba625c1c8afc911cbdaec5cfa6b60ab4eddf35cdda91bab338fd2a"
+    },
+    {
+      "path": "topics/18_zapor/images/18-03-light.webp",
+      "sha256": "8b1df000d94165ac0cd4ee7a90a1f33bb7c63694ff1dbf4e35efa433087b6cff"
+    },
+    {
+      "path": "topics/18_zapor/images/18-04-dark.webp",
+      "sha256": "bf73a357a4af2a756855f5dd310a9cd4dec4f2f2947e57bfb9344fc42b9a8a96"
+    },
+    {
+      "path": "topics/18_zapor/images/18-04-light.webp",
+      "sha256": "c6519d591a73cd5b7848266b036f888bdf5dfdc405b21b05f2c06c322e67db6d"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/1_full.md",
+      "sha256": "41fc98ce16214d5a18fed128623a177f6dc1b7c2e7615d3277ea119f7e35b38a"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/2_short.md",
+      "sha256": "1db2754444c3e8d0ad2439bfc7bfed1428b4dfd94e8c64635da7fdffd072c301"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/3_card.md",
+      "sha256": "ae083bdc9f08ad88004e6b3f3e588fa3328bd7d905e8c36f7a9ea3ac385aaffa"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/4_tests.md",
+      "sha256": "2fe7b92398f341543485c031ddb96a7877837f0c2cb2d85c6ca78f8890fa40c7"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/5_cases.md",
+      "sha256": "c7ab1bdbcb06c506a550c4556770a7e659e720a1d9cfbd39984cc98ad651193c"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/6_images.md",
+      "sha256": "64e819a7f36c75f5f0d4386eb0546d2bde134891dc02ca6d1246671aa0a1db8f"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-01-dark.webp",
+      "sha256": "b58efceb2249e70255c40d37454168bd6e548e00d552d96a1f3e6c29f8c68570"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-01-light.webp",
+      "sha256": "f8bf3f56c5e3d3c708dafc3c68c4a83bed18cadb2d6db8d1698bc2a324a15574"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-02-dark.webp",
+      "sha256": "d2159eddc07d4296727f21c28ecb3e1f6f922e1c032e32b3ee494416b2390b42"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-02-light.webp",
+      "sha256": "62df83e2acb1af9e77b3d70248cd3fcf046e0b534206f94ff65e78e89b137464"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-03-dark.webp",
+      "sha256": "a545aff265110b1586feda24fe0ae388c4588e0575d44028d758d59a0e005b72"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-03-light.webp",
+      "sha256": "074a472d933473782a0e0e5ea2a6fb967196cad8f6118a535286e1d2b09ff5cc"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-04-dark.webp",
+      "sha256": "8fcc88b75a22fa6ee92bd25fa4a24dead40ee49760b2e5449dd3185b7fede747"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-04-light.webp",
+      "sha256": "844458c02c4891649889b724641ecef72a14608705b59794e142196516170d18"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-05-dark.webp",
+      "sha256": "3d450fba840ab16c35a634a82c9c4db16d67f8e39efa076a978153461831d50e"
+    },
+    {
+      "path": "topics/19_yazvennyy_kolit/images/19-05-light.webp",
+      "sha256": "d1d4a290b737a81f764508b597cea8a88a0d4bfffa6d31b18f19ef69f0a67b19"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/1_full.md",
+      "sha256": "78c0ddfdedbb8f66c844ba9cc91eba014dbb379000ed017f8f50053da18978e7"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/2_short.md",
+      "sha256": "f251c41429405c21d035178f6a49e7ed75139ab36f5581d44dd7a1b9c5dc96c3"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/3_card.md",
+      "sha256": "9e24494c0b8df769a13499c0206058f7382ace7cfbf52c2829f9dad773132d11"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/4_tests.md",
+      "sha256": "fd3386976ec25689cbdf2ca1508f8d4d51295c591626924e7fda29f931ee4c75"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/5_cases.md",
+      "sha256": "15c674ae6c29ec4443cda3e85b7c214d5f735c39590e88fb989003b0accec057"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/6_images.md",
+      "sha256": "cfd566e78407799d5a8cd7c90acf58e7e565f98dcc1449b29ade36478f7862d2"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-01-dark.webp",
+      "sha256": "0bd532122155a6f16bf6efd3784731159fe64e724f5a5ea4cd07534c37cca025"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-01-light.webp",
+      "sha256": "01fa39841c69e2e016928dd067d4739e7c84b6b12a8dc8edbb43f77bcf35b629"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-02-dark.webp",
+      "sha256": "38823d5079dfe84cea36b421142613c6dd69a12d8e62fc11fee1f505619f4d15"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-02-light.webp",
+      "sha256": "5f382b4e69292393d908f0c0e1513aa7ae041a7596d8105335b4dfd964fac01a"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-03-dark.webp",
+      "sha256": "8ff5e5265f0f1d8cb273267816f893c03f74cddea44d2cad4401796c4908ef28"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-03-light.webp",
+      "sha256": "20cd7ed574a9a95ac05b8acbea32bd65a3ca705a7114c309a0c46071159af42c"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-04-dark.webp",
+      "sha256": "8ed02e67fdf39736cbb2208cecdc949001d9b6a593faa2756b701e36b836f32f"
+    },
+    {
+      "path": "topics/20_infekcionnaya_diareya_cdiff/images/20-04-light.webp",
+      "sha256": "51e21baae66defddc8ec3d02bdbed9cedbb899968d45cda5fcff61f225bdb42e"
+    },
+    {
+      "path": "topics/21_bolezn_krona/1_full.md",
+      "sha256": "0fa485c488b2a58f233f5389ead89b3712b1d8b84997014229ad6435e06f1944"
+    },
+    {
+      "path": "topics/21_bolezn_krona/2_short.md",
+      "sha256": "aa72eff3dd69bbfbd9b2016b1f8ac0b817efe23cc2bd9b8893f71c14c8ef4c83"
+    },
+    {
+      "path": "topics/21_bolezn_krona/3_card.md",
+      "sha256": "a479d609f88b714fea9e0e6665883b911dbf8f0a5b6bbb3a003396f80c08ba82"
+    },
+    {
+      "path": "topics/21_bolezn_krona/4_tests.md",
+      "sha256": "eedadae41ba6425315540d8565a557ef4a6da839003fa225b50f48e7d964322c"
+    },
+    {
+      "path": "topics/21_bolezn_krona/5_cases.md",
+      "sha256": "6b9caf4fe6db6f19dc6c23c7a86ab6b2045478f38c7c420f22156461ba84df61"
+    },
+    {
+      "path": "topics/21_bolezn_krona/6_images.md",
+      "sha256": "4130ad4e135ec9e7d8eb46ac3a80bf8c838db08b5fe1030cddbc09ed99543106"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-01-dark.webp",
+      "sha256": "1770afd67f081ed9eb971b871560e160cc41b9608aec82e09a46c7f93c38744e"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-01-light.webp",
+      "sha256": "17b500895cc0ffad14af667432341cea13215b9dd4f616c12894194b694921e9"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-02-dark.webp",
+      "sha256": "058ad6b3e0ae96d8d11babf6c98172732355c4e2fa0f1f8dde143621c0e6c845"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-02-light.webp",
+      "sha256": "b13d4bfa9b8a7f85dd94f5100f50d3976525963fa86c32867e43da70a435f529"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-03-dark.webp",
+      "sha256": "37ebe1c379192732c7a2561730ecefe52c8979d5173e226e924f23d029312872"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-03-light.webp",
+      "sha256": "06a25a528f41cd428abd1f15afb4966ec8ae4690d06ae9287c0ec2c987f0978f"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-04-dark.webp",
+      "sha256": "f18be214a1c00f9f51b4765f68e0c851005e45b5bc38555441c4340479cbd692"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-04-light.webp",
+      "sha256": "2d8668b6b502f39b26dcba2a4d80245db99ad982bb251ac0eedbfe5cdbd94399"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-05-dark.webp",
+      "sha256": "c222e2865ad636c21465fb9941aed40acdc77182de1cdadb85220454fe0ea839"
+    },
+    {
+      "path": "topics/21_bolezn_krona/images/21-05-light.webp",
+      "sha256": "d30556e04450c06cd2dee904431498c409a1048653bb8e5b9b0c1a1124e02f2c"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/1_full.md",
+      "sha256": "360c584b9a51735e9bf78afbbc03d2c1292fec9607146bfdacd54bd1348277f1"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/2_short.md",
+      "sha256": "6ebefa0e857c009088daad599116e0de6f2a665e203b04bda5443ba5c938f6b3"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/3_card.md",
+      "sha256": "8fcbe6e69488e1f499c4ff6b4cd15c612c699c80dc2f81ac3c5ba000bdedd299"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/4_tests.md",
+      "sha256": "93f379d0aa55e983329e39cb5c6a36e161d633850b407b983354c6cf5324f98b"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/5_cases.md",
+      "sha256": "5d878d05455825659f26b647aa2f0c3b30b75e3518c4f2e6904a4917daf0b640"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/6_images.md",
+      "sha256": "3e17a938381b703aac7c440ded77c4996bebe4eaaa7480675c7a3e23a9a057af"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-01-dark.webp",
+      "sha256": "e9c7e1998fa7da5bd594d05ba5e162b2f4411233bdf68dffa9c9497e252685dc"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-01-light.webp",
+      "sha256": "a6c7df586606c46476cca62a37d7dbf6fc54a5f24b3c462838d6af8f00b01885"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-02-dark.webp",
+      "sha256": "6c283b02cc2325edc8e0d0965d689bb68d22531aff3b7074a9da346edab63d88"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-02-light.webp",
+      "sha256": "fc0e45022ffbba1d301fe85591db2315101ce486bae1f2eb4eb76dfd800839aa"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-03-dark-v2.svg",
+      "sha256": "44d741df4d1c442391f7ee570dc578dac60292d315ab8d9375ee5930a8774643"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-03-dark-v3.svg",
+      "sha256": "a29887b179abb598bdcb25b9b58b848b3680c9270d85722996f2cc764a329966"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-03-dark.webp",
+      "sha256": "e6cda09446461155f8822d6e24f6b1322d90c806708a011311a60a05ea3476e8"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-03-light-v2.svg",
+      "sha256": "0a5d610ed0f34f8cafa9909a498387721ffab124f960c8d87f481913f15f5e7a"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-03-light-v3.svg",
+      "sha256": "b05e9ed09c33abb774dee194645a406dc8004f24c95ac992512b85dce48c891a"
+    },
+    {
+      "path": "topics/22_divertikulyarnaya_bolezn/images/22-03-light.webp",
+      "sha256": "0c7863ea58b3cece705850298c91dc4c0cecf6bb09f70175d6e0128a80377731"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/1_full.md",
+      "sha256": "4ad04c130a7cc613b252510e568c0091ecc181976bd20273a2ae5c6ff2b6d249"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/2_short.md",
+      "sha256": "13aafabedce772150715b85301f959f6cf2120de40156cc51337c51fe54927df"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/3_card.md",
+      "sha256": "129df33e2ae0d074d46020a98045a2a709184bc14483aa4f81badedcaea04dd2"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/4_tests.md",
+      "sha256": "44735aff1c572fe910cbef302fb9caa6162f3739064d0fa74d566438c58def16"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/5_cases.md",
+      "sha256": "7ae80acfa049fe27ecf2d2b938b9a69c8c6bdd1fb6264db1bb6a4e2c688ca4b0"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/6_images.md",
+      "sha256": "aa4f9ff47ad1519dceca6811e020d256b34e9add65caaf08fffac5d563f572bf"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/images/23-01-dark.webp",
+      "sha256": "fd329599027d1a392454211563150fd6f63f4b769303ba76f21674eba3d25318"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/images/23-01-light.webp",
+      "sha256": "c332771b2cb002589721405a70dca125b9af761aada6929f06374d63b9ecf81d"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/images/23-03-dark.svg",
+      "sha256": "1a9525b3fefd52470205058abb02350f7acf0295c15e6d5b65618efca8be31e3"
+    },
+    {
+      "path": "topics/23_ishemicheskiy_kolit_anorektalnye/images/23-03-light.svg",
+      "sha256": "55c772b6e298b432cca107ba678bb4aef785a6fcb7fef35f76c4d22bad39670a"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/1_full.md",
+      "sha256": "915f9fa3a3803416eb51f8667cb835a190de27c7d2b8327e0b87b21cf77e0633"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/2_short.md",
+      "sha256": "e182992743760fcfc47a8249d5e94640f5e8401dbd582c13becd4569ca1f70e5"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/3_card.md",
+      "sha256": "04e4c854a352855f1314f77c1c394f8f9245d57ec279efd6f353deb27896b738"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/4_tests.md",
+      "sha256": "def8d4a3eee33153c498f44a7234ee3f0892302efb5e079160a160f8366af6e7"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/5_cases.md",
+      "sha256": "a6b7652ceaa2683c54e9fd71fb0ced92226b0ec66894247ef2d143fa0be1f1a4"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/6_images.md",
+      "sha256": "300932388ba5939841efb007ffb43724554282d51a54098b5f11e775642216be"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/images/24-03-dark.svg",
+      "sha256": "aeaf84741a9ad6dacb6410681d901a6e636fb1a27e0b32425f2f1a27f7fd205b"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/images/24-03-light.svg",
+      "sha256": "22fa879a1cb445ce0147e1eba16ff477bb0ad3fe6817b9210cb5dd259eaa0d63"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/images/24-04-dark.svg",
+      "sha256": "1530cfe473f67a5965d2ae18e73e8bc97522be7afa7bda0d5e949d2f0f3b9d63"
+    },
+    {
+      "path": "topics/24_polipy_skrining_krr/images/24-04-light.svg",
+      "sha256": "5543f5fbed8907ec408c126bdca36e858c64f5fb92a6da4403a7cc4e274a450b"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/1_full.md",
+      "sha256": "26d7d448c700df5225917682a28e28bbd8761fb073799017c550bc52a325b0e5"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/2_short.md",
+      "sha256": "87488a3afbccd3cc4b1a1c6a50c2e49ebe5d440338b2546fbcd6060505d7f05b"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/3_card.md",
+      "sha256": "5011e99218e46dd1db400cd062f2bf989f5d3761676125194820f7f69dab5e06"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/4_tests.md",
+      "sha256": "9e63ed5db08c17fedae116279e53ff20d5b2fe75a5ef67d79b1026b0c75e1303"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/5_cases.md",
+      "sha256": "2bf0eb28289e460fbbdfb9a715dee5c380f4cd7d4f23960773403dbd0e1efe2e"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/6_images.md",
+      "sha256": "7d510d4ebc07e9b9d581c2808187f67550da365e5a18fe70852e73289f0dee3e"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/images/25-03-dark.svg",
+      "sha256": "c55e873135cd756772c38848b51e07760586254521816c7f2665f0840bbc8a27"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/images/25-03-light.svg",
+      "sha256": "91334d1f16a9d16d5c149c72bac96a1bd1aa79661d97ae15bfdc9f66896ad502"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/images/25-04-dark.svg",
+      "sha256": "28275c1c83d203e7071533571c0169a5db72ba103aa31cb6618ac5678f28f793"
+    },
+    {
+      "path": "topics/25_pechenochnye_proby_zheltukha/images/25-04-light.svg",
+      "sha256": "5cfa6eb931484c892f30b793f53ab20742c7ff340d825cabce494fb9914dc5bf"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/1_full.md",
+      "sha256": "d1239176bd30b0b1040ac4afc796778097f89163a003055c3f9184d66bdb55e0"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/2_short.md",
+      "sha256": "4f984faab6e7eb7a1bc50259735601fcb513877b4bd69e83bcc312a539ea23cf"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/3_card.md",
+      "sha256": "8a56b05299ece2a51e0cf1702bab07a021a46560b9987179320bf4a51e820832"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/4_tests.md",
+      "sha256": "f27e61c530c7c57e3ac5dae20205c0d700292d6e4cb16db41a1cc5ee2b49ec78"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/5_cases.md",
+      "sha256": "eadc4d4ace159b03d094f9a217483d9b46ef0d147be9464a9977439147942a6a"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/6_images.md",
+      "sha256": "c42e0487063bd23760cab4ab8a2d7c3b86eda2c812528f3f162c840f0cf27537"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/images/26-02-dark-v2.svg",
+      "sha256": "0debd590f1ce0415d7f77bbbf66f38c867cd381d84e13c3f9ba56c6d15423919"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/images/26-02-dark.svg",
+      "sha256": "f94856db59c1ebc196d06964df5a571ecb1001be6f2d0fd62df6a594e2358f40"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/images/26-02-light-v2.svg",
+      "sha256": "d111b6a71f0c63be405dadea2e7d34434dc7cb51157324ab1b29c2b1cd18de04"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/images/26-02-light.svg",
+      "sha256": "f7a0b8991b9dcc3dbee0436cc08add46e8e8fcff5e3e5ab0705aa680d51e087f"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/images/26-03-dark.svg",
+      "sha256": "d831723b2f63ea122a9e4d86dff21f9940406fd81cac38f071f3264465750ea3"
+    },
+    {
+      "path": "topics/26_lekarstvennoe_porazhenie_pecheni/images/26-03-light.svg",
+      "sha256": "6da2156ff9fa896a67938ef081c42b8496cb14d735a44f576ae3d05a43562dcb"
+    },
+    {
+      "path": "topics/27_mazhbp/1_full.md",
+      "sha256": "f8e13fd56d18b0b3d74909a39a3ddde5866c79f8de494765071d0f79b0db7abe"
+    },
+    {
+      "path": "topics/27_mazhbp/2_short.md",
+      "sha256": "347922df6c907598df7fecb4346f89eafdb19f1d769a4d1d43cab880f2f37d4d"
+    },
+    {
+      "path": "topics/27_mazhbp/3_card.md",
+      "sha256": "8db0b74f5c400724363fe7012db1e4d465e214157a1cf4be2499159afd527b6e"
+    },
+    {
+      "path": "topics/27_mazhbp/4_tests.md",
+      "sha256": "726ef22f04e18ce67118ded3f86da530cb2dcfc333d326a4dff0456ef5370c60"
+    },
+    {
+      "path": "topics/27_mazhbp/5_cases.md",
+      "sha256": "5064b14776a42c5ba57f91c051d36f70989a0aa1210f1470c66ea772da294ae4"
+    },
+    {
+      "path": "topics/27_mazhbp/6_images.md",
+      "sha256": "9f4d37ace9d99557087dfa37ea71d19db72029f894985d51fafbc08439b21efe"
+    },
+    {
+      "path": "topics/27_mazhbp/images/27-01-dark.svg",
+      "sha256": "17a7ce3498fa061404ac3dc6b7f1188c1174d954b28c3172b67583fc59351780"
+    },
+    {
+      "path": "topics/27_mazhbp/images/27-01-light.svg",
+      "sha256": "f0df443415fff7a0f9e5d0661176371e09e2bac0c5e579d664c31bdcc8aaf986"
+    },
+    {
+      "path": "topics/27_mazhbp/images/27-03-dark.svg",
+      "sha256": "9a3c7830d5b6bcc04679398990bd10733c0c63c94c24d4bba03a72b8ceaeadfd"
+    },
+    {
+      "path": "topics/27_mazhbp/images/27-03-light.svg",
+      "sha256": "0787d45dc35affe31da1b2de5f335d50165b335dc69eea4aa459f32e68bcf67b"
+    },
+    {
+      "path": "topics/27_mazhbp/images/27-04-dark.svg",
+      "sha256": "3b41e122dd0feba1dc7dc21bd6afb09813637760a07ff513b45e8c335b447cfe"
+    },
+    {
+      "path": "topics/27_mazhbp/images/27-04-light.svg",
+      "sha256": "97d52119975f700da1c7d01e69f48f1dff820e7ed6234e172d3c640b4d6f43f9"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/1_full.md",
+      "sha256": "22acb021e9586a4c1875ae967cf24719c45143abcc96a4684be2c9c9a47b9308"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/2_short.md",
+      "sha256": "d4e0a162294822d6bacce6fa79ea0890c07723e64df7e6ba25c79ece4d604c59"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/3_card.md",
+      "sha256": "c056e8c57fe87c3a2760610db754de51a91fceb3225d00a0a4c9950078d52fe6"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/4_tests.md",
+      "sha256": "dd89a549b7f75310543fd0ecd54f417df6463ead1e45680c0689f988c9177bfd"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/5_cases.md",
+      "sha256": "58c97f891a2d1c7bb41d105b97e4887f79664d01c248943e67948b28245ba0e3"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/6_images.md",
+      "sha256": "f7b7681db17fb1dfa502723643261ec7c60de4d605f30313fff2bb6c2c6fcb42"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/images/28-03-dark.svg",
+      "sha256": "a2c5f2594f3be23437db1f9d9f375cd8b3337a69b9be303538fbbb3c453714c6"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/images/28-03-light.svg",
+      "sha256": "0491e0cc8f4e92690a6d28ce8e1377e88b19c5d4ccf028bfe565b9cde2890ad6"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/images/28-04-dark.svg",
+      "sha256": "33bb7165b413e8b26f993469a6b17bb24651e4440dbf7cd849236fe8ab07064e"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/images/28-04-light.svg",
+      "sha256": "69b4cd099c00bb38d9e7129f6933ed2e835890d907551f6a94417dec16ee0dc9"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/images/28-05-dark.svg",
+      "sha256": "34660b2a21591d9f57d5e328dfe67a74b7c4df1c6487e7cba7c3cce2d426658e"
+    },
+    {
+      "path": "topics/28_alkogolnaya_bolezn_pecheni/images/28-05-light.svg",
+      "sha256": "a16b49e7619bda103d3afd4384a4b7e703af08e79a214f2bf3ad6d8ad16a65df"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/1_full.md",
+      "sha256": "b9745fb2873a983c4b5140f93bb7609b6b5cbe9d32e72f10db9ed6d49cd3ba84"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/2_short.md",
+      "sha256": "554bd76f33ac7066b7f4028851a4b062e44452b543e5bd62edc48ec6f59783ce"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/3_card.md",
+      "sha256": "98269453d7696d0723c8570d972496f96da2f5a6d46535b3b20bb5ae480e6875"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/4_tests.md",
+      "sha256": "9c658dfbcd36898db2132ec18cf79775e6b6a1bdbd5e67789d051965ba811ac7"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/5_cases.md",
+      "sha256": "0c04dd2803ad51d861ef53c66cfa2a747f28f69c09c8c8a0a77a167d1918e4da"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/6_images.md",
+      "sha256": "5f2c240b04786497d3bfe76c9ee7d580d5d3b9289bb0a1b92e10e11b9c801eee"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-01-dark.webp",
+      "sha256": "3285aafddaa7d975fa860b882554003514be810506369637cb27f4d00695156b"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-01-light.webp",
+      "sha256": "40ff2efffa2447c77334df5dd04b234c07faf1234555f3a5780f8540bed0245e"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-02-dark.svg",
+      "sha256": "f2690357534d42e81ea44bf8d79bab2b86ecfcfbc17f06aeab56d3abcbd0fe87"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-02-light.svg",
+      "sha256": "7bebcfa739f7b12e26fb6005d8d7cacd48ea3177bfc6e9d479e63856da7350e4"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-03-dark-v2.svg",
+      "sha256": "0b7d7a64c68883f9be5eecc2ec336e7468d500c014e46323d5fbeb6520f6effb"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-03-dark.svg",
+      "sha256": "ed1a17d551ad997159f881f9817f5625b1fc1d9e68effea0f4f3017952029850"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-03-light-v2.svg",
+      "sha256": "8d6a5131ba5c4470c67627a9fd69933092f9f8dfb0e2985620a3adb85636579a"
+    },
+    {
+      "path": "topics/29_autoimmunnyy_gepatit/images/29-03-light.svg",
+      "sha256": "79e8191a4769dbe49570da041c2ae84728b5000dfc80247b286c85bc46e8e567"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/1_full.md",
+      "sha256": "28adacfda723d0c1827c6f765cea76911c5824343404c9c56e550c6f803ac0ae"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/2_short.md",
+      "sha256": "6a6a9dbf0c5d27edcb7387e1cd0e4d272835ac4a654209757cd3c87bcce36065"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/3_card.md",
+      "sha256": "3e454b3aacd7f8fe64c8e7464af5e8c929b26e34d5c17d309386ea8694dda4a3"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/4_tests.md",
+      "sha256": "30e3abea11307e7b01557cd6126b53d06b66fa64d61b6db6838dbb1922e07fa9"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/5_cases.md",
+      "sha256": "2e7f59fc3b2f349d39323dfe64b84dea9e2da8649a55408b64060349924d67fc"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/6_images.md",
+      "sha256": "984288e5c7246a536913f8f6d356c62d49df8ed0d6f905626de6a56bacddba02"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-01-dark.webp",
+      "sha256": "f27eb8c0eb2fb78f37ea04811608aca508b4f4b2259cf9d44bef29fdc10ca775"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-01-light.webp",
+      "sha256": "796db0df04f4198149575c4bbf64adcebeab70493f918f6e29f400ae2a9f015c"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-02-dark.webp",
+      "sha256": "769ff84b4fa3f270bda18352262caf6271e0a801cdd1021371b0a70ac67c6f02"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-02-light.webp",
+      "sha256": "319ee703757e4238910eef132acf03257be470fe8c17e463b535393d2f228c7d"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-03-dark.svg",
+      "sha256": "2ef3d045e97c9f9a571c280e47196cf3c8ab1a888d7897b4dc4f4e3f4d04ef1c"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-03-light.svg",
+      "sha256": "dae95a8d464f8c8a241a5f841d64f74c40b7afd591cbd19e767419ed8848bd1a"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-04-dark.svg",
+      "sha256": "43dedb531fd41ec053c4bedf5260593f954a061adbcba087593493e7a9fadd73"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-04-light.svg",
+      "sha256": "8f8665d8ca52d53846baf229ec0acaaee6350f5ee07fae08637fc3755d7c1ed7"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-05-dark.svg",
+      "sha256": "511e693c1d74fbad880bc16a5710d35acb73f8aaf5e8d209a1d8bc22f176a781"
+    },
+    {
+      "path": "topics/30_virusnye_gepatity/images/30-05-light.svg",
+      "sha256": "9f0904669d83219701ce69c1432984995838be698cf9d5fad540729a50cb1091"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/1_full.md",
+      "sha256": "93a5ef9d5e5725f481c5b6d88bc19d89358faef49b347f73e362a51a5854b396"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/2_short.md",
+      "sha256": "53c69c0ab0d300e52410877e7182f7add90226530b7206ccaabb877640b11b6a"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/3_card.md",
+      "sha256": "41dd2b5e13da37010a7c0a9658e630d3ac5f6cd6b87b5d07d0dcadf6af821f93"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/4_tests.md",
+      "sha256": "2268456ad429ea66aff6475326f828a4e481ed703a6598ee1db3511ae492ab32"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/5_cases.md",
+      "sha256": "c0ed2fb7146ea82f73475ebeb60115821efaab2841b64b9223f8b227ab5fe196"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/6_images.md",
+      "sha256": "7aa9fe28189529d6938a4f4ae3e1852f1d411d9bf50c7616ef6397973a4543a5"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-01-dark.webp",
+      "sha256": "6839714f5130306afe6667747d4d0e69b5881ca5aa970e88504aac5662e5c7db"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-01-light.webp",
+      "sha256": "a7708c8ca449752b79249daa4c3d444be150b2465ca55f0be7372f8cef22178b"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-02-dark.svg",
+      "sha256": "418a9a184b869d5f82dc0b0afe1a2c52fb9113286d9823078ec14496fcd5374a"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-02-light.svg",
+      "sha256": "71e2449845787e5c9899e5dcc8330ec58a7021c1ee4ea94553870164cd238047"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-03-dark.webp",
+      "sha256": "ef26dede7aeb0f6fcf376908751ecc328ca78ca4723cccfffa5841200f6a8fcd"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-03-light.webp",
+      "sha256": "4b6d887296e166038ce6be4e194bacef16456f1656ab06c142271ff989faf40a"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-04-dark.svg",
+      "sha256": "908444bf0fb59059a1dd5e88ab660418f4cf91ab3c323219ce720a467d4b2da0"
+    },
+    {
+      "path": "topics/31_pbkh_psh_igg4/images/31-04-light.svg",
+      "sha256": "99d8d94814f5edca89f5279e4b5f2f57bd2e89f427d9924050138a7241a237e6"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/1_full.md",
+      "sha256": "040a1607e5b1d520c1895812a500b464e18d082a978e878dc8b2bacfdef23481"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/2_short.md",
+      "sha256": "33f06b0dba3e3af971ee2814b45560d586b0bdbce7ee68c1c88814afdee41474"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/3_card.md",
+      "sha256": "b523e8ffb78d3eda936aa32a71ddd0bbf4a2dacae4744f20c0d0c67d20ae76f9"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/4_tests.md",
+      "sha256": "0e1476465c5330046d625c873b726ff7350380ae969ebd41399974f7c5e06552"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/5_cases.md",
+      "sha256": "4422f8e0421e918dddf8735a7410c5c05dd650276deb9a5f2e522b9634fe3796"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/6_images.md",
+      "sha256": "1f4894c416163a97063020544cbc94f00b4de57b42565c7c9532414d81ab90e1"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-01-dark.webp",
+      "sha256": "c18cc2503f6bbcd1f727e162c4f6a3ab1da963277c28b5e3dd5775177330aa92"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-01-light.webp",
+      "sha256": "d9b12de8ba87a373f880b02b1f521d2ed25d0e3aa835a4181a3f22dc6239ec81"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-02-dark.webp",
+      "sha256": "478125145bee5c8b7d6f2f2009e27ac05a55654e207cd9a29745c92b9cb1e6da"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-02-light.webp",
+      "sha256": "97741322690ba7995268f80ddb78d5884055ec48d16a7b8e801a4cede4166439"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-03-dark.svg",
+      "sha256": "5fe3e307c2f829fbfe111ffb150a165716e7327fb6ed7922e2d5a308229bf680"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-03-light.svg",
+      "sha256": "76b52b005e677c3ff6c68bc8e5b36e1faaaf83f47240ffb525c1ac208cd09b46"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-04-dark.svg",
+      "sha256": "a921c64c65f7af75c84d7cc177083db8e5b5a60497569c73c260c29f295ecf02"
+    },
+    {
+      "path": "topics/32_gemokhromatoz_vilson_a1at/images/32-04-light.svg",
+      "sha256": "44f9ea50c5d0dfe2cd312be339eb8635742194223d3ccc3c265b460c5d124893"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/1_full.md",
+      "sha256": "4aa1ab520674b531f52eb10f4305afa8ea8f8f5f66842ef77c2ac0ec965c6893"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/2_short.md",
+      "sha256": "c42f47844750cf83d5a63216fbffe7d772e637a7ca6929207522f2693395e39a"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/3_card.md",
+      "sha256": "c31bb615c714ca4dbab1465afee63497e958710ed450b5d12574b12e0c02a915"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/4_tests.md",
+      "sha256": "6d3e6cb1a4b33796c9ceffa4beeb1a373e1acea804b5c5bf4e964e48710157df"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/5_cases.md",
+      "sha256": "2710e4ebed85702cec880a1aadc67876a229601d4f1377e215da82859c7083de"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/6_images.md",
+      "sha256": "297f80710094a2e10d39ccce9cef52b1e25c0613b2fa3a9784b3abed917b6a8a"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-01-dark.webp",
+      "sha256": "ba884af1db3c6bd53bba33292e4f911986e43d65d662a90cd496daf654bf2649"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-01-light.webp",
+      "sha256": "29716b29743d77ae92dad5c7c0448a4d742375172b8298d90c49077e6cc99b9e"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-02-dark.svg",
+      "sha256": "dac05258bd0970345810dfe90960c532c8666a67b6853dfe500402f3cedcbd2d"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-02-light.svg",
+      "sha256": "40bc6118cb6a8d6aa4b755fd0ed6e715deeb91894e8d0737770aed65345c3929"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-03-dark.svg",
+      "sha256": "7d199991f85bcd65a9a2e0ac18e8c7bc25565c822a797b3f380bce5cb17b21e3"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-03-light.svg",
+      "sha256": "955564c66db70ae53ce8b8f2b88977d65c348d8129d65c6bd21bd9d6ed73b36e"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-04-dark.svg",
+      "sha256": "15518360e207c449e52fc904cbf685725d8785ea9c15f53dba32951f8f5f8223"
+    },
+    {
+      "path": "topics/33_cirroz_oslozhneniya/images/33-04-light.svg",
+      "sha256": "14f350c639ad2df3e703aada597e27c08b2a11c16eccdd32da30c9b5ce28c6dd"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/1_full.md",
+      "sha256": "b33bb39e9883b3edf487c85a5acabe35a2248291aecba62718be3c67ecb4b41d"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/2_short.md",
+      "sha256": "844b2cad960ccd92476c882050f740a7ad8b00b82360aa1f700b9af3a1a53465"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/3_card.md",
+      "sha256": "d85afc755b2a5b5206ff6138a88542673d6362c70f7cb2bf8c34ae0a491c83fc"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/4_tests.md",
+      "sha256": "76af46bf1d6b1b43eb9615f4d7552c1ad15bf6e342632ff1500e94df4161f2fb"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/5_cases.md",
+      "sha256": "3d67ba25587dfda09f27b7b9bda00852face56e74d4d442bacc68ca5898e03dc"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/6_images.md",
+      "sha256": "3d8c41c7f3c31a344633b5bcfdf412b7903d06040c52b7984f81659dc59ab395"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-01-dark.webp",
+      "sha256": "9d7f8edbef0ac8a26af5d23e6d642c405dd0654162d15319e34f5699f39e9a7d"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-01-light.webp",
+      "sha256": "e42db19b1c071e8e823952f56c08fe0282bc929b7183856e71771dac7cb6b5d3"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-02-dark.svg",
+      "sha256": "607f6ec081ef3933ff0581e3ac58d091356f100a26e0a66795a8a3c39b1bf148"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-02-light.svg",
+      "sha256": "82ce8c44d8762a198b07847500b0fe6f2ea778f5e67e4e76f248593fef16738b"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-03-dark.svg",
+      "sha256": "78f5fa84b1c3a9620a6d35f96c12ca71aac055cc436b14bba5d4858924fbde4b"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-03-light.svg",
+      "sha256": "f5c4a107581a0b47752a4c980f9578c27aa9b602ef70c4669bbfc352c93ac6e9"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-04-dark.svg",
+      "sha256": "c10578e0367f982334bc793b0bfa7023155470280b5a54f867921f70427639da"
+    },
+    {
+      "path": "topics/34_ochagovye_obrazovaniya_gck/images/34-04-light.svg",
+      "sha256": "20bdaef2c6b848f99b937a4e3706579c238d4c08bccd157f1ce40e3e3417c760"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/1_full.md",
+      "sha256": "2b3cdf38e99c6978b102d12ed80ba888c7c24139101083cb9721b294ddfc2d52"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/2_short.md",
+      "sha256": "a2ee57bc62f42ff98f21648b11955d33500f3a29a914727fc691e030434f61fa"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/3_card.md",
+      "sha256": "99600cdb0b380ec8d8df5d260075a5739ca56f96119fd8df4d21e931e1f4fc91"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/4_tests.md",
+      "sha256": "f55739177ea3821960b4bd3831c9c86b3f24487bcbb352ad13752c9da1af6aba"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/5_cases.md",
+      "sha256": "decd8c0c9b8d93c9279973544b4fdbc8bf665b2b744ddf7957234dd81a6e6999"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/6_images.md",
+      "sha256": "e67d53a656d4dad1235ac42a54fb598635dc9ab8851929bcc12d077e89fc7b58"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-01-dark.webp",
+      "sha256": "45cdb1c4a12ec3ff31e1cab8e799c0bad0979ec928ab11c1ba262310aaae8e08"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-01-light.webp",
+      "sha256": "38ccc2ba60bb3f49dd89a7208adaa6cf29ad798c3785a8af39d790ba998594e2"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-02-dark-v2.svg",
+      "sha256": "bbb5b29c414fb371478a26bc2abb06ab22471a5531d751b62897f93f127cb8ac"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-02-dark.svg",
+      "sha256": "717a7df6dd45f2c74fc09e5ecbdd1412335fa42300f6e2606df7e5217e105f4c"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-02-light-v2.svg",
+      "sha256": "b74939f8b3d124242b0be36476e92da0333711c7a9effef6480c2e0b939d09e0"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-02-light.svg",
+      "sha256": "2b37bf1881be9e8521b3f5cf7ccf8b599f3b0a6d780942677e373d885929e5e4"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-03-dark.svg",
+      "sha256": "b1dcd31efd96b28312636691f059f9a99d018c54548bc02de8dd129668b6e5cf"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-03-light.svg",
+      "sha256": "d22b71ab4d6a8bb3d3b0c37e6d7df0803d96f6a5f56eaa48b3d542ea7cdff567"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-04-dark.svg",
+      "sha256": "380626d8fdb323368a4903582d18f268dd43b8cc59d27231f11be349c3760867"
+    },
+    {
+      "path": "topics/35_pechen_beremennost/images/35-04-light.svg",
+      "sha256": "3a8f75b8a5df0d52712a703dfbf3da0e6f69408bd64f0c200f400af7ff582e3a"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/1_full.md",
+      "sha256": "dce1b255d836151b03aee2c6874cfb0856069e1543d58a5172d4f1de27066672"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/2_short.md",
+      "sha256": "4a2e51a466c9710466840acf56a3914d4ff381dfa694cec506996825ac93a97b"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/3_card.md",
+      "sha256": "93fedf3be78e2990e4ab1379748356b0126814cd48b5c9b5fef1b1e663874f54"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/4_tests.md",
+      "sha256": "4edbe981ca167746f1e314716a3a17e44ab23c068ad9d3127f5a77b7f9b9ecc4"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/5_cases.md",
+      "sha256": "1e63f802e0cc3df6e3127c68c89c734a5ba7efae33227f4a8a96f6d25f8ed5c4"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/6_images.md",
+      "sha256": "37ce38d559f57ac3ed9d69a71d809cfae221cf84b6fc6dd37e1d6b92f036cbf8"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-01-dark.webp",
+      "sha256": "efd17b5fe8813e8ae390d168bb933bdb7f3bfc466462ce87491bd46a38d8e164"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-01-light.webp",
+      "sha256": "3022459c6ae00eb63b1130f97ebcef5718319b3b23e16c3f2081565f859924a6"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-02-dark.webp",
+      "sha256": "8fe9c63282f48d624fc39679e5fd9171645a92d64668c6cbb3a1f6276e2534b5"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-02-light.webp",
+      "sha256": "2a68337e904ebfe83e82f451ddfb0f895fc64350799b29f6be1407c8ea3ca2a2"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-03-dark.webp",
+      "sha256": "345b47ff0efe03c0e6c20db0af7f3c4ab4edf1f731f03d21de5ca67376af0da3"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-03-light.webp",
+      "sha256": "c560bc0c466f7702bbee48826c909aa66eac0b7be07841958187597b879d22d8"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-04-dark.svg",
+      "sha256": "475645b456fd24abf99725ae2709974f8498075da31f033fb3b28edc7c552394"
+    },
+    {
+      "path": "topics/36_zhkb_polipy_zhp/images/36-04-light.svg",
+      "sha256": "7a4d7c340ec9b9bc8ba1691f8d15768c7752af8a49a088e5f99b854478e70e84"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/1_full.md",
+      "sha256": "772bf49190762df7557d065cacf738afeb02344e6d73592e865afa8d1c9e6167"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/2_short.md",
+      "sha256": "7f294b45c7e3edfe7de842722d6755ccc828b2da2eef243c9470b3f7b974f8a0"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/3_card.md",
+      "sha256": "e5105d24d5fbe090a3a2930720dbf27be94ac64924bdbdb10c8ed8f3b1d57f2e"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/4_tests.md",
+      "sha256": "7cef7e285f4c0975247e6f2e83840b74ad34c014a825575df7b794aa0dd47938"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/5_cases.md",
+      "sha256": "cf4de9964f422cdce25d8a864b460934691cd39956361abfafbe18307176011e"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/6_images.md",
+      "sha256": "0fbace02bebfd0d0891876dece71c0cae404d49ec55ac1fa0493ba8e40ff98b5"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/images/37-01-dark.webp",
+      "sha256": "1fe0ef485cf245dbde5c80f1c90aab9f2b97203eb165c859c6f2e7cf5dcdd5aa"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/images/37-01-light.webp",
+      "sha256": "dd229d8eeb223c9e30a77d25f03922ddc2bc7aad563bd8c873cdcb9b271ce1d9"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/images/37-02-dark.svg",
+      "sha256": "b128d1a57a38e56eb4de9f52da5460049c07d3717ba21b96ccbb029ae9bd2b86"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/images/37-02-light.svg",
+      "sha256": "d8a5a37c10cec3f72f7d0c2d507f78ac79cfea4187c885e824044a25c15d16d8"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/images/37-03-dark.webp",
+      "sha256": "d03511e0ad8aec5ca4bb0d8b87377c9aef9c763b20c0f3d4182afa9e14f6f066"
+    },
+    {
+      "path": "topics/37_funkcionalnye_biliarnye_phes/images/37-03-light.webp",
+      "sha256": "9fb14171674fd2f5b18909131198c2d35e4116e9ed1fece1aea648aa3fa9d70b"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/1_full.md",
+      "sha256": "cd6b2c5d824653ff25af8b49f03908748692073711794dd8a3bd95b839a8d0cd"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/2_short.md",
+      "sha256": "b6d668d96fcde541b77a7c57fc30a11a1849114f33e12869927f62acbba92d44"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/3_card.md",
+      "sha256": "92c49a2e50086c073499720891ed3010290ee041814fa12371906bf76d814b68"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/4_tests.md",
+      "sha256": "e0bbd41ee4d770053c0c796dcb243bd411625fc032232d7dec5979b4facd7b24"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/5_cases.md",
+      "sha256": "ccc861fb0242837a69ded0f584271e53770a68591c50910cc51074b8302d27a1"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/6_images.md",
+      "sha256": "68124cc043fac64a495661226621bb5c6b4ef77de2e9482dcb5f31621cbcd691"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-01-dark.svg",
+      "sha256": "79d7e971e29ca2d7a609f8edae664d8cf773c894a4cc15e4f783708d73ef6352"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-01-light.svg",
+      "sha256": "9ad79fa4909d45d08973f5db72923e526c0cbab1202d7b7dbf9e69afd30dd347"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-02-dark.webp",
+      "sha256": "22cbf6acaa54ab9b9cc15e1b872a74ca505052f6c69dbf85925fa334ff490880"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-02-light.webp",
+      "sha256": "8e8a632ac87c74d738b0975994bd4486efaa41be776c69193aa913999f3cecef"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-03-dark.svg",
+      "sha256": "6d4c52b8eb112f43947bf147d20369880326ed31dab183bd1c699e10f91d47c4"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-03-light.svg",
+      "sha256": "9827d430428064d2379bbfa87c179ba04b463aadb0acf0487010ebbce3007926"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-04-dark.svg",
+      "sha256": "67871479df828d0d7cec58ef79b385423b5bf257b806942191d9c5efc3d9dffd"
+    },
+    {
+      "path": "topics/38_ostryy_pankreatit/images/38-04-light.svg",
+      "sha256": "15aad442202bb5c79030a874a726ee04312b7727fb350f0623ecb9a56fdf5ebe"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/1_full.md",
+      "sha256": "e5af8744f42f0dd0390705b3279f09739f486cfe7cd3098517858206a037e37d"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/2_short.md",
+      "sha256": "d315ae23c8e87ffa9a9aaa094729acc13a7636d600729e425ef9b55c3bdfb392"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/3_card.md",
+      "sha256": "21572cc2b140281a4eb3ec33def2d7937cd2462074f4c172bd6edbd5dd629209"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/4_tests.md",
+      "sha256": "f100bd0d94d68f6b7a0b7a34df38a314859e02141ad69e806c09808728a10df9"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/5_cases.md",
+      "sha256": "ae8651e27af0ac7b4bebbd64302642f700ab44fd9d216bf976abf120e1b2cc12"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/6_images.md",
+      "sha256": "fa1d2728a2666bb5cf10bb41091631290fbebfda3c48b660b9c6d6a08209a28d"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-01-dark.webp",
+      "sha256": "55aca07903f731fc125cd49f67623a066a0679dc591256492adc3efd8dcd8d16"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-01-light.webp",
+      "sha256": "daf239d63ab45a458e934f290f98aaf7462e4a65e23af389b28dfc72f085e0e2"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-02-dark.svg",
+      "sha256": "ca8ceed971b2b5d319a2c59b9f355234b1477cfba57e3c29e6465fe6423ed21a"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-02-light.svg",
+      "sha256": "de7ac964b0e6bcf5e6ba9779b51c28699838e23e028a50402b62c0cbcb8add27"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-03-dark.svg",
+      "sha256": "04cc721fc51bdb5cdbb371faee0c2b33d229526ee97ee0a9e240b7bea2b3ad0f"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-03-light.svg",
+      "sha256": "bd489c0af3a29e53ec41b790d0682e38b13ef03570246943439b2a4162fd9c3d"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-04-dark.svg",
+      "sha256": "e27911ff02b25e322be489dba133a3c6241f597f7ff1d8deb3975d119b81cf47"
+    },
+    {
+      "path": "topics/39_khronicheskiy_pankreatit_vnpzh/images/39-04-light.svg",
+      "sha256": "3e632dcbb9a8ae598c3f8850ac947d0659ec977dbc652949cba2e29421416aa3"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/1_full.md",
+      "sha256": "0ed50a7efe43fb9a4c9ed95edad6c5221f562244650e8c7e1197e8ec771844fd"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/2_short.md",
+      "sha256": "59ca1d48eadf60c6a0dfcbf8d6a725035bce6b3f04cd1aec308bab7304ac9dfc"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/3_card.md",
+      "sha256": "c243714ebeca169d8c31977e50b577cc7241e90094f2ce71ba644e097f6c9095"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/4_tests.md",
+      "sha256": "1db0934a81a0cb523344964a856aee89090ed27975a6e8d9d717e9ce1def64d9"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/5_cases.md",
+      "sha256": "45ac90ade09927ce74c49a831f514e59c367a3cf30ea103d3355f3a3ad184c21"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/6_images.md",
+      "sha256": "431201dec6645de1b3ae9d400c258d135bb491340189253d20423e7f842f9b91"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-01-dark-v2.svg",
+      "sha256": "89adf5f31438e093f2332096640bb3f994a1a9eb1a2dcf6a8bcd2072ec943193"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-01-dark.svg",
+      "sha256": "42c48721b11f879ee0b91bfac44d727c21b2bcc892891683ed9e1daeff0198b4"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-01-light-v2.svg",
+      "sha256": "0fdf249b9e6393467b85f6b40afa5579a84badf7e27869fa429ab1a268561380"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-01-light.svg",
+      "sha256": "f42e26794949eabcd05cb7d7dd11a8bfca8f7266271dc939844dce0bd15a7440"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-02-dark.svg",
+      "sha256": "049f0c29051a781a5c447a046c3a87826f974a3ea21ff84c41224118f1d020f9"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-02-light.svg",
+      "sha256": "9b2bb35b50d7eb0941691ae1b88d55d392799ecc41ee8560215a3eab9031adae"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-03-dark.svg",
+      "sha256": "2645903fcdc489ebed834419ecf66e462b5d417c306ea8fcf513c4d7c9a6e925"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-03-light.svg",
+      "sha256": "819db1a4e2baf749b93d004b7aa5ab4777dea98e1fc3bf28da7b7ccc10ec17bb"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-04-dark.svg",
+      "sha256": "1577fb5efd7afdfe00452fade63149f05af7173feba1a4decede0e9429e87a69"
+    },
+    {
+      "path": "topics/40_kisty_rak_pzh/images/40-04-light.svg",
+      "sha256": "3e47afeedc7c29c043475b11ded18af384cff13de85571cb612ee1585ccf6e01"
+    },
+    {
+      "path": "topics/41_nutriciologiya/1_full.md",
+      "sha256": "e034a4c644df4822a47a25b1c6269d0f10668b21fcbf05a422fb086647355b5a"
+    },
+    {
+      "path": "topics/41_nutriciologiya/2_short.md",
+      "sha256": "832b37a2ba2e361eb31e96297241f79cc89a4b9b864660a251c888dcdd89fc43"
+    },
+    {
+      "path": "topics/41_nutriciologiya/3_card.md",
+      "sha256": "51fdfb3c2d6f1f019a0dedc2f5706a42d141e5bd8a7f3cac3739d5245f19377c"
+    },
+    {
+      "path": "topics/41_nutriciologiya/4_tests.md",
+      "sha256": "fdcff1fb08f3e3304119264575182741dea32855267635715c5e5c96936814a1"
+    },
+    {
+      "path": "topics/41_nutriciologiya/5_cases.md",
+      "sha256": "969d1b5b6f89c2119420cc1eb80b10394f661f03e79a37a8f32b1c204c62802b"
+    },
+    {
+      "path": "topics/41_nutriciologiya/6_images.md",
+      "sha256": "770c8f287bca7754d895b2220481ff217c55f5eb2904605a092a46e72dec351a"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-01-dark.webp",
+      "sha256": "ac9951a8f0bba32363ff3185fad4e9ea15d7ce95fe3ee798f210bbfb6164a800"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-01-light.webp",
+      "sha256": "ec8cfe49bbaa414f98f064335000323243b267302e827573ff7f6d35dcab11e0"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-02-dark.webp",
+      "sha256": "63068431e1b45f0650217b837a6224f41a2058216d5533a42e2c594128280e38"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-02-light.webp",
+      "sha256": "51dfa1e2fb661fc4f7f6752e6b0d9155c4c8389d2935ebbf038bd045db4770a3"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-03-dark.svg",
+      "sha256": "290ffe4ec4d3e47cac55611bbf796921cc885b9f00997b39266fc35ed1dbac57"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-03-light.svg",
+      "sha256": "f469fab8fe15175825096c388f20aac043d7a5bb3f5218a4ffa447c002282e93"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-04-dark.svg",
+      "sha256": "a1e1b35a34a213cf956037e865b04b7b77f9248b5fdbcc3603549cc6163b8698"
+    },
+    {
+      "path": "topics/41_nutriciologiya/images/41-04-light.svg",
+      "sha256": "012a986e2e9d6947e714d727afbc8c14f4ec7e5cb2eb7780f87979cc81c390fa"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/1_full.md",
+      "sha256": "62c315894eed7d840f6fc21173098a94b4ccc967cf7bcf1ef127d2a381b69b0c"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/2_short.md",
+      "sha256": "e354efbb5ca8ba2ef09fbf86ef385f5ec49e0457d48802e39dbb79bf473d3637"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/3_card.md",
+      "sha256": "06cf6a6886e77ed6b00e18546e03f0e66a1928655c290ad38b8b5bdb035b0d3a"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/4_tests.md",
+      "sha256": "ca147ccbdb3dcfa81dfdab166fae96692642da45675c10bc0d597936a724a7bb"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/5_cases.md",
+      "sha256": "1ed562166a38b64fa4f5f93b510de4e039feae6f6c3d7116252599c3ba2082fe"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/6_images.md",
+      "sha256": "adb370575a9575929bc4af1c2bd330a0217ad38d7e6d7a82bf15110a8287e9eb"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-01-dark-v2.svg",
+      "sha256": "c3e877227d68264ffb38a9ce924d3a9d92846fb3775f16eeae272dc2b79b4d05"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-01-dark.svg",
+      "sha256": "00a4e92d747cc1edc74b56c212846bfdf4fd82c309fec903d47c468052051ae2"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-01-light-v2.svg",
+      "sha256": "2cc2989fc15ef69a422d4171d587c7757dcbfa3d7328f05cae2c6cc42b013795"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-01-light.svg",
+      "sha256": "a7abd14007014fcaec861685fa4e93caa64c27961eb57d45ccce122ff4c16d4c"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-02-dark.svg",
+      "sha256": "80a4e297b66d1d8cd540f88003699e44d7f53c3bd39330324ca541ecd85e0617"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-02-light.svg",
+      "sha256": "a498c215ba84f2073648b95af6802bc31bcbfffd909a5e3051f5680f2f5a07c4"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-03-dark.svg",
+      "sha256": "a2b7fcd2b26cec62cafa01c6fffc73388e0a5b29f0756ce260c75b702f94f073"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-03-light.svg",
+      "sha256": "512c5b4ac77162c5a9bd98b5ada8e0b58eeb4477649e288ca17c58bfdcdea8f3"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-04-dark.svg",
+      "sha256": "0c429d36d036a20157090cf170e9fd44027afe295291ff8d1e906cf90ec47c91"
+    },
+    {
+      "path": "topics/42_osobye_gruppy/images/42-04-light.svg",
+      "sha256": "a39be931dc1c9482ad39dd10c05f0a5d67b8eb68ab45da7fa568ad3950651aa9"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/1_full.md",
+      "sha256": "dcc27062e135efceb76ad93870d8f557703dc02cac5876f8293ef67ee36bfca5"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/2_short.md",
+      "sha256": "5c969e297ddfa408912c493fd9626a9116735e16d28a8fdf8332ec7b17d8ae49"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/3_card.md",
+      "sha256": "9d81fdbaee01529b3e9ee496e3532a3ceefd74549646b723a3471c17f57f2311"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/4_tests.md",
+      "sha256": "fbdcdc1a84f8597836ba12dda59abd888d79f639ef19a383468bcf51fd0e17e6"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/5_cases.md",
+      "sha256": "375b8a076a821c04c2fad47b334cadf01803f8b741301d11dfd00b87c4dff895"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/6_images.md",
+      "sha256": "bd3384cbbd3fc710d4d17f91f6ca298caed08318b6c98f627cd488d4a78888ac"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-01-dark.webp",
+      "sha256": "fca4edf08ff0962db6caee8a824bac5a3eaf5df865007da896b6bc416187d94d"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-01-light.webp",
+      "sha256": "cb3bec851b5d77bfc20f50688bd1fea659b65f6cba3771bbf4d46da290941bf6"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-02-dark.svg",
+      "sha256": "6f8d349c0a6c1386983afe7d5a2d4ac9475b33e3cb9fb8398268e2110e528690"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-02-light.svg",
+      "sha256": "97ed515ebdec966ac3cc671f3e801debd6080c1c386b15905165591adc5577f0"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-03-dark.svg",
+      "sha256": "08648a75303c46cd022477565acaeed88d817ed3d7c41d824d5a8c1f6f593233"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-03-light.svg",
+      "sha256": "e8e9f73c4f0e38da5aee18b00fe6d836d75eaa400fccb999e1635d5ee527a866"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-04-dark.svg",
+      "sha256": "bd5688d2f352cd2c2227a623e0d8c89654e38303e545c4b0bd1337a67476adbf"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-04-light.svg",
+      "sha256": "c49787ee3b4ad4e72158dc1d82f7e76f005de90c8aed692b259788ed51d40e49"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-05-dark.svg",
+      "sha256": "50a8936cc7837bbad3cdbd6373bcfcd52ff4ea6c930a34717ec872d812709ab6"
+    },
+    {
+      "path": "topics/43_ot_zhaloby_k_diagnozu/images/43-05-light.svg",
+      "sha256": "8c0170d147d41ee9fa61dcacd415c71552e86ac6d6041a6d59a394319abfe47f"
+    }
+  ]
+}
